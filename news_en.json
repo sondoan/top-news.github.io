@@ -1,130 +1,151 @@
 {
     "articles": [
         {
-            "rank": 46,
             "title": " Japan's core machinery orders up 3.0% in June ",
             "summary": "Japan's core machinery orders rose 3% in June, first rise in 3 months, signaling a pickup. Q3 forecasts a 4% fall.",
-            "url": "https://www.japantimes.co.jp/business/2025/08/20/economy/core-machinery-orders-june/"
+            "url": "https://www.japantimes.co.jp/business/2025/08/20/economy/core-machinery-orders-june/",
+            "topic": "Business",
+            "location": "Japan"
         },
         {
-            "rank": 55,
             "title": " Time to go: Japan pro board game player retires at 98 ",
             "summary": "Japan's oldest pro Go player, Kazuko Sugiuchi (98), retired due to grueling matches. She'll be promoted to 9th dan, a female first.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/japans-oldest-go-player-retires/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/japans-oldest-go-player-retires/",
+            "topic": "Sports",
+            "location": "Japan"
         },
         {
-            "rank": 69,
             "title": " Is sumo becoming a victim of its own popularity? ",
             "summary": "Sumo's popularity is diluting the fan experience, making it inaccessible with simulated training.",
-            "url": "https://www.japantimes.co.jp/sports/2025/08/20/sumo/sumo-victim-of-popularity/"
+            "url": "https://www.japantimes.co.jp/sports/2025/08/20/sumo/sumo-victim-of-popularity/",
+            "topic": "Sports",
+            "location": "Tokyo, Japan"
         },
         {
-            "rank": 49,
             "title": " Mozambique's illegal miners reap risky rewards but land suffers ",
             "summary": "Mozambique's illegal miners gain risky rewards but severely pollute land and rivers with mercury, harming health & ecosystems.",
-            "url": "https://www.japantimes.co.jp/environment/2025/08/20/sustainability/mozambique-illegal-miners/"
+            "url": "https://www.japantimes.co.jp/environment/2025/08/20/sustainability/mozambique-illegal-miners/",
+            "topic": "Health",
+            "location": "Manica province, Mozambique, near the Zimbabwe border"
         },
         {
-            "rank": 14,
             "title": " Yankees bash team-record-tying 9 homers in rout of Rays ",
             "summary": "Yankees tied a team record with 9 homers to rout the Rays 13-3. Aaron Judge hit his 40th HR.",
-            "url": "https://www.japantimes.co.jp/sports/2025/08/20/baseball/mlb/yankees-hr-record-tie/"
+            "url": "https://www.japantimes.co.jp/sports/2025/08/20/baseball/mlb/yankees-hr-record-tie/",
+            "topic": "Sports",
+            "location": "George M. Steinbrenner Field in Florida"
         },
         {
-            "rank": 3,
             "title": " Former cattle herder Wanyonyi ready to eclipse Rudisha ",
             "summary": "Emmanuel Wanyonyi expects David Rudisha's 800m world record to fall soon, noting strong competition.",
-            "url": "https://www.japantimes.co.jp/sports/2025/08/20/more-sports/wanyonyi-rudisha-800m/"
+            "url": "https://www.japantimes.co.jp/sports/2025/08/20/more-sports/wanyonyi-rudisha-800m/",
+            "topic": "Sports",
+            "location": "Paris"
         },
         {
-            "rank": 96,
             "title": " Japanese man suspected of ordering double murder in Manila ",
             "summary": "Japanese man suspected of ordering double murder of two Japanese in Manila due to financial dispute. Two Filipino brothers arrested.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/crime-legal/manila-killing-suspects-arrested/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/crime-legal/manila-killing-suspects-arrested/",
+            "topic": "News",
+            "location": "Manila"
         },
         {
-            "rank": 20,
             "title": " Japan tourism arrivals hit July record despite weather disruption and quake fears ",
             "summary": "Japan saw record July tourism (3.43M) despite typhoon/quake fears, with weak yen boosting Chinese, Taiwanese, & US visitors.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/july-foreign-visitors-record-high/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/july-foreign-visitors-record-high/",
+            "topic": "Business",
+            "location": "Japan"
         },
         {
-            "rank": 19,
             "title": " CDP softens stance toward LDP in bid to bolster political center ",
             "summary": "Despite LDP turmoil, Japan's CDP is softening its stance toward the ruling party, with leader Noda seeking conciliation.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/politics/cdp-current-status/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/politics/cdp-current-status/",
+            "topic": "News",
+            "location": "Japan"
         },
         {
-            "rank": 37,
             "title": " Brazilian goalkeeper Fabio claims world record for most games ",
             "summary": "Brazilian goalkeeper Fabio set a new world record with 1,391 competitive appearances in men's soccer, surpassing Peter Shilton's mark.",
-            "url": "https://www.japantimes.co.jp/sports/2025/08/20/soccer/fabio-soccer-appearances-record/"
+            "url": "https://www.japantimes.co.jp/sports/2025/08/20/soccer/fabio-soccer-appearances-record/",
+            "topic": "Sports",
+            "location": "Rio de Janeiro, Brazil"
         },
         {
-            "rank": 34,
             "title": " Welsh winger Rees-Zammit felt he was wasting talent during NFL stint ",
             "summary": "Rugby star Louis Rees-Zammit returns to union after an NFL stint, feeling he wasted talent but has no regrets.",
-            "url": "https://www.japantimes.co.jp/sports/2025/08/20/more-sports/rees-zammit-rugby-nfl/"
+            "url": "https://www.japantimes.co.jp/sports/2025/08/20/more-sports/rees-zammit-rugby-nfl/",
+            "topic": "Sports",
+            "location": "Kansas City, Bristol, Wales"
         },
         {
-            "rank": 81,
             "title": " Lutnick: Japan’s $550 billion will be directed by Trump ",
             "summary": "Japan's $550B trade pledge will be directed by Trump for US interests, with America controlling investments and profits, says Lutnick.",
-            "url": "https://www.japantimes.co.jp/business/2025/08/20/economy/lutnick-cnbc-billion/"
+            "url": "https://www.japantimes.co.jp/business/2025/08/20/economy/lutnick-cnbc-billion/",
+            "topic": "Business",
+            "location": "Japan and the United States"
         },
         {
-            "rank": 40,
             "title": " Government extends deadline for stockpiled rice sales ",
             "summary": "Japan's agriculture ministry extends the deadline for stockpiled rice sales. Slow deliveries left 100,000 tons unsold.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/rice-sales-deadline-extension/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/rice-sales-deadline-extension/",
+            "topic": "Business",
+            "location": "Japan"
         },
         {
-            "rank": 22,
             "title": " Ishiba unveils new regional economic initiative as TICAD 9 conference begins ",
             "summary": "At TICAD 9, PM Ishiba unveiled a new economic initiative to boost Japan-Africa ties and investments. It emphasizes African solutions for global challenges.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/politics/tokyo-international-conference-on-african-development-first-day/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/politics/tokyo-international-conference-on-african-development-first-day/",
+            "topic": "Business",
+            "location": "Yokohama, Japan"
         },
         {
-            "rank": 82,
             "title": " On economic policy, the White House is its own worst enemy ",
             "summary": "Trump's risky moves threaten his political wins. Voters distrust his chaotic administration despite favoring Republicans on issues.",
-            "url": "https://www.japantimes.co.jp/commentary/2025/08/20/world/white-house-economys-worst-enemy/"
+            "url": "https://www.japantimes.co.jp/commentary/2025/08/20/world/white-house-economys-worst-enemy/",
+            "topic": "Business",
+            "location": "United States"
         },
         {
-            "rank": 93,
             "title": " Currency dominance in the digital age ",
             "summary": "US dollar dominance is challenged. Digital currencies' security and data integrity reshape global finance, posing risks to its supremacy.",
-            "url": "https://www.japantimes.co.jp/commentary/2025/08/20/world/currencies-in-the-digital-age/"
+            "url": "https://www.japantimes.co.jp/commentary/2025/08/20/world/currencies-in-the-digital-age/",
+            "topic": "Finance",
+            "location": "Paris"
         },
         {
-            "rank": 15,
             "title": " Foreign Minister Takeshi Iwaya to visit Central Asia from Aug. 24 ",
             "summary": "Japan's FM Iwaya visits Kazakhstan & Uzbekistan Aug 24-28 to boost ties & discuss \"Central Asia plus Japan\" dialogue.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/iwaya-central-asia/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/iwaya-central-asia/",
+            "topic": "News",
+            "location": "Japan, Kazakhstan, Uzbekistan, Central Asia"
         },
         {
-            "rank": 22,
             "title": " Modi hails China ties as Washington takes swipe at India's 'richest families' ",
             "summary": "Modi hails improved China ties, plans visit to meet Xi, amid US criticism of India's Russian oil purchases.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/asia-pacific/politics/modi-china-bessent-india-families/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/asia-pacific/politics/modi-china-bessent-india-families/",
+            "topic": "News",
+            "location": "India, China, United States"
         },
         {
-            "rank": 15,
             "title": " Megaquake alert would urge 520,000 people to evacuate ",
             "summary": "Japan plans 520,000+ advance evacuations for a Nankai Trough megaquake. Areas are designated due to rapid tsunami threat.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/megaquake-520000-evacuate/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/megaquake-520000-evacuate/",
+            "topic": "Science and Technology",
+            "location": "Japan, Pacific coast, Nankai Trough"
         },
         {
-            "rank": 68,
             "title": " Government aims to shorten long lines at women's restrooms ",
             "summary": "Japan aims to shorten women's restroom lines. The government will implement solutions, review toilet standards, and create a unified guideline by March 2027.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/shorten-long-line-women-restrooms/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/20/japan/shorten-long-line-women-restrooms/",
+            "topic": "Life Style",
+            "location": "Japan"
         },
         {
-            "rank": 86,
             "title": " The U.S. Navy is building a drone fleet to take on China. It's not going well. ",
             "summary": "The U.S. Navy's drone fleet development for China faces setbacks. Drones crashed in a test due to software glitches, part of ongoing failures.",
-            "url": "https://www.japantimes.co.jp/news/2025/08/21/world/us-navy-drone-china/"
+            "url": "https://www.japantimes.co.jp/news/2025/08/21/world/us-navy-drone-china/",
+            "topic": "Science and Technology",
+            "location": "Baltimore, Maryland, California coast"
         }
     ]
 }

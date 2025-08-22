@@ -1,130 +1,144 @@
 {
     "articles": [
         {
-            "rank": 84,
             "title": "Giữa cuộc đời rộng lớn, tìm một người để thương",
             "summary": "Nam 31t, quân đội Vĩnh Phúc, tìm bạn gái chân thành, biết quan tâm, yêu gia đình để đồng hành cuộc sống, xây hạnh phúc giản dị.",
-            "url": "https://vnexpress.net/giua-cuoc-doi-rong-lon-tim-mot-nguoi-de-thuong-4929290.html"
+            "url": "https://vnexpress.net/giua-cuoc-doi-rong-lon-tim-mot-nguoi-de-thuong-4929290.html",
+            "topic": "Life Style",
+            "location": "Huyện Tam Đảo, Vĩnh Phúc"
         },
         {
-            "rank": 44,
             "title": "Cô gái hay cười, tích cực trong cuộc sống tìm anh",
             "summary": "Cô gái 32 tuổi, quản lý mầm non, tìm người đàn ông học thức, yêu kinh doanh, sống tích cực, thực tế, cùng sẻ chia.",
-            "url": "https://vnexpress.net/co-gai-hay-cuoi-tich-cuc-trong-cuoc-song-tim-anh-4929291.html"
+            "url": "https://vnexpress.net/co-gai-hay-cuoi-tich-cuc-trong-cuoc-song-tim-anh-4929291.html",
+            "topic": "Life Style",
+            "location": "Thành phố Biên Hòa, Đồng Nai"
         },
         {
-            "rank": 72,
             "title": "Đoạt mạng hàng xóm vì nghi bị nói xấu",
             "summary": "Lô Văn Thái lĩnh 15 năm tù vì đánh chết hàng xóm do nghi ngờ nạn nhân nói xấu, xúi giục chị dâu đuổi mình.",
-            "url": "https://vnexpress.net/doat-mang-hang-xom-vi-nghi-bi-noi-xau-4929508.html"
+            "url": "https://vnexpress.net/doat-mang-hang-xom-vi-nghi-bi-noi-xau-4929508.html",
+            "topic": "News",
+            "location": "xã Tam Quang, huyện Tương Dương cũ"
         },
         {
-            "rank": 49,
             "title": "'Xem lại năng lực hiệu trưởng nếu nhà vệ sinh của trường bẩn'",
             "summary": "Sở GD&ĐT TP HCM: Hiệu trưởng sẽ bị xem xét năng lực nếu trường có nhà vệ sinh bẩn, học sinh không dùng được, ảnh hưởng chất lượng giáo dục.",
-            "url": "https://vnexpress.net/xem-lai-nang-luc-hieu-truong-neu-nha-ve-sinh-cua-truong-ban-4929365.html"
+            "url": "https://vnexpress.net/xem-lai-nang-luc-hieu-truong-neu-nha-ve-sinh-cua-truong-ban-4929365.html",
+            "topic": "Life Style",
+            "location": "Ho Chi Minh City"
         },
         {
-            "rank": 59,
             "title": "Liên quân do Mỹ dẫn đầu 'hạ sát thủ lĩnh cấp cao IS'",
             "summary": "Liên quân Mỹ hạ sát thủ lĩnh cấp cao IS Salah Numan ở tây bắc Syria trong cuộc đột kích. Ông Numan là thành viên nguy hiểm bị truy lùng.",
-            "url": "https://vnexpress.net/lien-quan-do-my-dan-dau-ha-sat-thu-linh-cap-cao-is-4929510.html"
+            "url": "https://vnexpress.net/lien-quan-do-my-dan-dau-ha-sat-thu-linh-cap-cao-is-4929510.html",
+            "topic": "News",
+            "location": "tỉnh Idlib, tây bắc Syria"
         },
         {
-            "rank": 9,
             "title": "Hơn 30 quân nhân Nga có mặt ở Hà Nội tham gia diễu binh dịp 2/9",
             "summary": "VnExpress Discover liệt kê phím tắt điều khiển video (phát/dừng, tua, âm thanh, thích, thảo luận) và tùy chọn chia sẻ.",
-            "url": "https://vnexpress.net/hon-30-quan-nhan-nga-co-mat-o-ha-noi-tham-gia-dieu-binh-dip-2-9-4929511.html"
+            "url": "https://vnexpress.net/hon-30-quan-nhan-nga-co-mat-o-ha-noi-tham-gia-dieu-binh-dip-2-9-4929511.html",
+            "topic": "Entertainment",
+            "location": "Vietnam"
         },
         {
-            "rank": 62,
             "title": "Chanathip khiến CLB Công an Hà Nội ôm hận",
             "summary": "Chanathip lập cú đúp, giúp BG Pathum United thắng ngược Công an Hà Nội 2-1 ở trận ra quân Cup CLB Đông Nam Á 2025-2026. CAHN bỏ lỡ nhiều cơ hội.",
-            "url": "https://vnexpress.net/chanathip-khien-clb-cong-an-ha-noi-om-han-4929520.html"
+            "url": "https://vnexpress.net/chanathip-khien-clb-cong-an-ha-noi-om-han-4929520.html",
+            "topic": "Sports",
+            "location": "Thailand"
         },
         {
-            "rank": 27,
             "title": "Nhóm thanh thiếu niên cầm dao chặn đường, cướp tài sản",
             "summary": "Đà Nẵng: 4 thiếu niên 16-18 tuổi bị bắt vì cướp tài sản, dùng dao uy hiếp. Nhóm gây ra ít nhất 4 vụ.",
-            "url": "https://vnexpress.net/nhom-thanh-thieu-nien-cam-dao-chan-duong-cuop-tai-san-4929517.html"
+            "url": "https://vnexpress.net/nhom-thanh-thieu-nien-cam-dao-chan-duong-cuop-tai-san-4929517.html",
+            "topic": "News",
+            "location": "Đà Nẵng"
         },
         {
-            "rank": 95,
             "title": "Bị cao huyết áp nên 'sinh hoạt vợ chồng' thế nào?",
             "summary": "Người cao huyết áp có thể quan hệ nếu huyết áp ổn định, không triệu chứng. Ngừng nếu đau ngực, khó thở. Tham vấn bác sĩ.",
-            "url": "https://vnexpress.net/bi-cao-huyet-ap-nen-sinh-hoat-vo-chong-the-nao-4929352.html"
+            "url": "https://vnexpress.net/bi-cao-huyet-ap-nen-sinh-hoat-vo-chong-the-nao-4929352.html",
+            "topic": "Health",
+            "location": "Hanoi and Ho Chi Minh City"
         },
         {
-            "rank": 54,
             "title": "Đạo diễn Mưa đỏ: 'Chúng tôi cố 200% sức làm phim'",
             "summary": "Phim \"Mưa đỏ\" về Quảng Trị, đạo diễn Đặng Thái Huyền và êkíp dồn 200% sức lực, mãn nguyện thành quả, tri ân liệt sĩ.",
-            "url": "https://vnexpress.net/dao-dien-mua-do-chung-toi-co-200-suc-lam-phim-4929488.html"
+            "url": "https://vnexpress.net/dao-dien-mua-do-chung-toi-co-200-suc-lam-phim-4929488.html",
+            "topic": "Entertainment",
+            "location": "Thành cổ Quảng Trị"
         },
         {
-            "rank": 100,
             "title": "Người lái xe bán tải gây náo loạn bãi biển bị phạt 6 tháng tù",
             "summary": "Phạm Ngọc Cường bị 6 tháng tù vì lái bán tải gây náo loạn bãi biển Tuy Hòa bằng cách bóp còi inh ỏi.",
-            "url": "https://vnexpress.net/nguoi-lai-xe-ban-tai-gay-nao-loan-bai-bien-bi-phat-6-thang-tu-4929521.html"
+            "url": "https://vnexpress.net/nguoi-lai-xe-ban-tai-gay-nao-loan-bai-bien-bi-phat-6-thang-tu-4929521.html",
+            "topic": "News",
+            "location": "Tuy Hòa, Phú Yên and Đăk Lăk"
         },
         {
-            "rank": 77,
             "title": "Phó bí thư Hà Nội: Tính toán việc xây trường để tránh lãng phí",
             "summary": "Hà Nội cần tính toán lại xây trường cấp 1/2 để tránh lãng phí do tỷ lệ sinh giảm, ưu tiên khắc phục thiếu trường cấp 3.",
-            "url": "https://vnexpress.net/pho-bi-thu-ha-noi-tinh-toan-viec-xay-truong-de-tranh-lang-phi-4929311.html"
+            "url": "https://vnexpress.net/pho-bi-thu-ha-noi-tinh-toan-viec-xay-truong-de-tranh-lang-phi-4929311.html",
+            "topic": "News",
+            "location": "Hanoi"
         },
         {
-            "rank": 51,
             "title": "Ông Trump yêu cầu Thống đốc Fed lập tức từ chức",
             "summary": "Ông Trump yêu cầu Thống đốc Fed Lisa Cook từ chức do bị cáo buộc gian lận thế chấp.",
-            "url": "https://vnexpress.net/ong-trump-yeu-cau-thong-doc-fed-lap-tuc-tu-chuc-4929513.html"
+            "url": "https://vnexpress.net/ong-trump-yeu-cau-thong-doc-fed-lap-tuc-tu-chuc-4929513.html",
+            "topic": "Finance",
+            "location": "United States"
         },
         {
-            "rank": 40,
             "title": "Hà Nội phát đồ ăn, nước uống miễn phí cho người xem diễu binh",
             "summary": "Hà Nội miễn phí đồ ăn, nước, xe buýt, màn hình phục vụ diễu binh Quốc khánh 80 năm. Khuyến khích dùng công cộng.",
-            "url": "https://vnexpress.net/ha-noi-phat-do-an-nuoc-uong-mien-phi-cho-nguoi-xem-dieu-binh-4929522.html"
+            "url": "https://vnexpress.net/ha-noi-phat-do-an-nuoc-uong-mien-phi-cho-nguoi-xem-dieu-binh-4929522.html",
+            "topic": "News",
+            "location": "Hà Nội"
         },
         {
-            "rank": 55,
             "title": "Hai mẹ con bị lũ cuốn trôi ở Thanh Hóa",
             "summary": "Hai mẹ con bị lũ cuốn trôi ở Thanh Hóa. Thi thể người mẹ đã được tìm thấy, con gái còn mất tích. Công tác cứu hộ gặp khó khăn.",
-            "url": "https://vnexpress.net/hai-me-con-bi-lu-cuon-troi-o-thanh-hoa-4929530.html"
+            "url": "https://vnexpress.net/hai-me-con-bi-lu-cuon-troi-o-thanh-hoa-4929530.html",
+            "topic": "News",
+            "location": "Suối Chà Làm, Trung Lý, Thanh Hóa"
         },
         {
-            "rank": 89,
             "title": "Công nghệ lượng tử giúp phi công bay an toàn hơn",
             "summary": "Công nghệ lượng tử định vị giúp máy bay an toàn hơn, không phụ thuộc GPS. Cảm biến lượng tử siêu chính xác khắc phục nhiễu tín hiệu.",
-            "url": "https://vnexpress.net/cong-nghe-luong-tu-giup-phi-cong-bay-an-toan-hon-4928366.html"
+            "url": "https://vnexpress.net/cong-nghe-luong-tu-giup-phi-cong-bay-an-toan-hon-4928366.html",
+            "topic": "Science and Technology",
+            "location": "UK and US"
         },
         {
-            "rank": 19,
             "title": "Loạt 'concert quốc gia' miễn phí dịp Quốc khánh",
             "summary": "Hà Nội tổ chức chuỗi concert miễn phí mừng Quốc khánh 80 năm, với nhiều đêm nhạc quy mô lớn, quy tụ nghệ sĩ nổi tiếng tại Đông Anh, Mỹ Đình, trung tâm.",
-            "url": "https://vnexpress.net/loat-concert-quoc-gia-mien-phi-dip-quoc-khanh-4928510.html"
+            "url": "https://vnexpress.net/loat-concert-quoc-gia-mien-phi-dip-quoc-khanh-4928510.html",
+            "topic": "Arts and Culture",
+            "location": "Hà Nội"
         },
         {
-            "rank": 42,
             "title": "Khi nào người phạm tội được miễn trách nhiệm hình sự?",
             "summary": "Người phạm tội có thể miễn trách nhiệm hình sự nếu luật thay đổi khiến hành vi không còn tội. Hỏi điều kiện.",
-            "url": "https://vnexpress.net/khi-nao-nguoi-pham-toi-duoc-mien-trach-nhiem-hinh-su-4928761.html"
+            "url": "https://vnexpress.net/khi-nao-nguoi-pham-toi-duoc-mien-trach-nhiem-hinh-su-4928761.html",
+            "topic": "News",
+            "location": "Hà Nội, TP Hồ Chí Minh, International"
         },
         {
-            "rank": 40,
-            "title": "Làm sao đòi lại tài sản chồng đã lén mua cho người tình?",
-            "summary": "Chồng mua nhà cho người tình trong hôn nhân. Vợ muốn đòi lại, hỏi có phải tài sản chung để hủy giao dịch hoặc chia khi ly hôn.",
-            "url": "https://vnexpress.net/lam-sao-doi-lai-tai-san-chong-da-len-mua-cho-nguoi-tinh-4929235.html"
-        },
-        {
-            "rank": 14,
             "title": "Những người Ukraine quyết giữ thành trì ở Donbass",
             "summary": "Người Ukraine kiên quyết giữ Donbass bất chấp tấn công dữ dội, coi nhượng đất là không thể. Đàm phán gặp khó vì Nga đòi lãnh thổ.",
-            "url": "https://vnexpress.net/nhung-nguoi-ukraine-quyet-giu-thanh-tri-o-donbass-4929261.html"
+            "url": "https://vnexpress.net/nhung-nguoi-ukraine-quyet-giu-thanh-tri-o-donbass-4929261.html",
+            "topic": "News",
+            "location": "Donbass region in eastern Ukraine"
         },
         {
-            "rank": 22,
             "title": "'Viễn cảnh tắc đường tới sân bay Long Thành khiến tôi lo ngại'",
             "summary": "Tác giả lo ngại tắc đường đến sân bay Long Thành, vì hạ tầng kết nối kém, dễ gây trễ chuyến. Sân bay hiện đại cần đi đôi với giao thông thuận tiện.",
-            "url": "https://vnexpress.net/san-bay-long-thanh-o-dau-san-bay-long-thanh-cham-tien-do-san-bay-long-thanh-bao-gio-xong-vien-canh-di-2-tieng-chua-toi-san-bay-long-thanh-khien-toi-thay-nan-4929409.html"
+            "url": "https://vnexpress.net/san-bay-long-thanh-o-dau-san-bay-long-thanh-cham-tien-do-san-bay-long-thanh-bao-gio-xong-vien-canh-di-2-tieng-chua-toi-san-bay-long-thanh-khien-toi-thay-nan-4929409.html",
+            "topic": "News",
+            "location": "TP Hồ Chí Minh and Long Thành airport"
         }
     ]
 }
