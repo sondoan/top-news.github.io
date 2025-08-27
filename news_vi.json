@@ -6,7 +6,13 @@
         "topic": "Business",
         "location": "TP.HCM và Hà Nội, Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/anh-1-1756221608399586048410-0-0-391-626-crop-17562216358071997477755.jpg",
-        "hashtag": "#LừaĐảoTrựcTuyến #CảnhGiác #ScamOnline #KỳNghỉLễ #QuàTriÂnGiả",
+        "hashtags": [
+            "#LừaĐảoTrựcTuyến",
+            "#CảnhGiác",
+            "#ScamOnline",
+            "#KỳNghỉLễ",
+            "#QuàTriÂnGiả"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 04:03:00 +0700"
     },
@@ -17,7 +23,13 @@
         "topic": "Science and Technology",
         "location": "Ukraine, Nga, Mỹ, NATO",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/uk-1756221070525507846001-0-112-1152-1955-crop-1756221088543696570759.jpg",
-        "hashtag": "#ChiếnSựUkraine #UAV #TênLửa #ViệnTrợQuânSự #NgaUkraine",
+        "hashtags": [
+            "#ChiếnSựUkraine",
+            "#UAV",
+            "#TênLửa",
+            "#ViệnTrợQuânSự",
+            "#NgaUkraine"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 04:30:00 +0700"
     },
@@ -28,7 +40,13 @@
         "topic": "News",
         "location": "Ukraine, Nga, Mỹ, Kyiv",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/nga-ukraine-17562133707161113831363-36-0-676-1024-crop-17562154892371920464686.jpg",
-        "hashtag": "#NgaUkraine #DonaldTrump #VolodymyrZelensky #VladimirPutin #NgoạiGiao",
+        "hashtags": [
+            "#NgaUkraine",
+            "#DonaldTrump",
+            "#VolodymyrZelensky",
+            "#VladimirPutin",
+            "#NgoạiGiao"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:00:00 +0700"
     },
@@ -39,7 +57,13 @@
         "topic": "Sports",
         "location": "Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/u23-vn-17562133843621089283761-22-0-662-1024-crop-17562148213501192886607.jpg",
-        "hashtag": "#ĐộiTuyểnViệtNam #KimSangSik #BóngĐáViệtNam #AsianCup2027 #TânBinhĐT",
+        "hashtags": [
+            "#ĐộiTuyểnViệtNam",
+            "#KimSangSik",
+            "#BóngĐáViệtNam",
+            "#AsianCup2027",
+            "#TânBinhĐT"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:13:00 +0700"
     },
@@ -50,7 +74,13 @@
         "topic": "Business",
         "location": "TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/nguyen-thanh-nam-17562186737401632098488-33-0-533-800-crop-1756219469112294098481.jpg",
-        "hashtag": "#SởHữuTríTuệ #HàngGiả #BảoVệThươngHiệu #ThươngMạiĐiệnTử #ChínhSáchPhápLuật",
+        "hashtags": [
+            "#SởHữuTríTuệ",
+            "#HàngGiả",
+            "#BảoVệThươngHiệu",
+            "#ThươngMạiĐiệnTử",
+            "#ChínhSáchPhápLuật"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:15:00 +0700"
     },
@@ -61,7 +91,13 @@
         "topic": "News",
         "location": "Nghệ An, Hà Tĩnh, Thanh Hóa, Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/photo-1756223327377-17562233291012020661562-0-166-1125-1966-crop-17562237632491150333987.jpeg",
-        "hashtag": "#BãoSố5 #ThiệtHạiBão #MiềnTrung #KhắcPhụcHậuQuả #ThiênTai",
+        "hashtags": [
+            "#BãoSố5",
+            "#ThiệtHạiBão",
+            "#MiềnTrung",
+            "#KhắcPhụcHậuQuả",
+            "#ThiênTai"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:19:00 +0700"
     },
@@ -72,7 +108,13 @@
         "topic": "Business",
         "location": "Ea Knuếc, Krông Pắk, Đắk Lắk",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/24/anh-nu-bi-thu-3-17560241848821301968850-81-0-1681-2560-crop-1756024739708767148598.jpg",
-        "hashtag": "#SầuRiêngĐắkLắk #LivestreamBánHàng #KinhTếSố #ChuyểnĐổiSố #NôngSản",
+        "hashtags": [
+            "#SầuRiêngĐắkLắk",
+            "#LivestreamBánHàng",
+            "#KinhTếSố",
+            "#ChuyểnĐổiSố",
+            "#NôngSản"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:30:00 +0700"
     },
@@ -83,7 +125,13 @@
         "topic": "News",
         "location": "Hà Nội, Đồng Nai, TP.HCM, Cà Mau, Thanh Hóa",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/cuop-tiem-kim-hoan-tai-da-nang-manh-dong-cam-bua-tan-cong-bao-ve-17562246572871397394865-0-77-1080-1805-crop-17562246641182145475624.jpg",
-        "hashtag": "#QuocKhanh80Nam #DienBinhHaNoi #MetroDongNai #TuHaoVietNam #ThoiSuVietNam",
+        "hashtags": [
+            "#QuocKhanh80Nam",
+            "#DienBinhHaNoi",
+            "#MetroDongNai",
+            "#TuHaoVietNam",
+            "#ThoiSuVietNam"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:30:00 +0700"
     },
@@ -94,7 +142,13 @@
         "topic": "Arts and Culture",
         "location": "Vietnam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/18b-online-1756221399021752784319-27-0-667-1024-crop-1756223053518556614765.jpg",
-        "hashtag": "#TrẩyHộiNonSông #ConcertQuốcGia #TinhThầnViệt #CôngNghiệpVănHóa #ÂmNhạcViệt",
+        "hashtags": [
+            "#TrẩyHộiNonSông",
+            "#ConcertQuốcGia",
+            "#TinhThầnViệt",
+            "#CôngNghiệpVănHóa",
+            "#ÂmNhạcViệt"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:34:00 +0700"
     },
@@ -105,7 +159,13 @@
         "topic": "Arts and Culture",
         "location": "Trung tâm triển lãm Việt Nam, Đông Anh, Hà Nội",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a2-17562238128711493140541-320-0-1920-2560-crop-17562238329871885946973.jpg",
-        "hashtag": "#ConcertVietNamTrongToi #MiềnTrung #QuốcKhánh #NghệThuật #HàNội",
+        "hashtags": [
+            "#ConcertVietNamTrongToi",
+            "#MiềnTrung",
+            "#QuốcKhánh",
+            "#NghệThuật",
+            "#HàNội"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:34:00 +0700"
     },
@@ -116,7 +176,13 @@
         "topic": "Entertainment",
         "location": "Thành phố Hồ Chí Minh",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/ca-si-le-tuan-17562246721431156681499-0-0-1199-1919-crop-17562246958511853060888.jpg",
-        "hashtag": "#LeTuan #CaSiLeTuan #NguLongDuKy #GiaiNghe #ShowbizViet",
+        "hashtags": [
+            "#LeTuan",
+            "#CaSiLeTuan",
+            "#NguLongDuKy",
+            "#GiaiNghe",
+            "#ShowbizViet"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:39:00 +0700"
     },
@@ -127,7 +193,13 @@
         "topic": "Business",
         "location": "Mỹ, Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a1-1756222916079890788727-0-0-1600-2560-crop-1756222943216367252441.jpg",
-        "hashtag": "#ThuếGỗ #MỹViệtNam #DoanhNghiệpGỗ #ThươngMại #KinhTế",
+        "hashtags": [
+            "#ThuếGỗ",
+            "#MỹViệtNam",
+            "#DoanhNghiệpGỗ",
+            "#ThươngMại",
+            "#KinhTế"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:43:00 +0700"
     },
@@ -138,7 +210,13 @@
         "topic": "News",
         "location": "Trường THCS Lương Văn Chánh, Phú Hòa 2, Đắk Lắk",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/z69482921927196d1c33d61015a94a9997e5cdc6192bab-17562293598531840186220-122-0-825-1125-crop-17562301722021114133487.jpg",
-        "hashtag": "#CháyNhàKho #ĐắkLắk #TrườngHọc #ChậpĐiện #CứuHỏa",
+        "hashtags": [
+            "#CháyNhàKho",
+            "#ĐắkLắk",
+            "#TrườngHọc",
+            "#ChậpĐiện",
+            "#CứuHỏa"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:44:00 +0700"
     },
@@ -149,7 +227,13 @@
         "topic": "Life Style",
         "location": "Cảnh Dương, Chân Mây - Lăng Cô, TP.Huế",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/cd1-17561885610561688035650-0-57-1440-2361-crop-17561889371791869971368.jpg",
-        "hashtag": "#CảnhDương #LàngBiển #DuLịchHuế #VănHóaViệt #ThiênNhiênĐẹp",
+        "hashtags": [
+            "#CảnhDương",
+            "#LàngBiển",
+            "#DuLịchHuế",
+            "#VănHóaViệt",
+            "#ThiênNhiênĐẹp"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:45:00 +0700"
     },
@@ -160,7 +244,13 @@
         "topic": "News",
         "location": "Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a-1-trang-17-239-175622115550173256469-56-0-1656-2560-crop-17562211665902145764695.jpg",
-        "hashtag": "#TuyểnSinhĐH2025 #SựCốTuyểnSinh #GiáoDụcViệtNam #ThíSinh #BộGDĐT",
+        "hashtags": [
+            "#TuyểnSinhĐH2025",
+            "#SựCốTuyểnSinh",
+            "#GiáoDụcViệtNam",
+            "#ThíSinh",
+            "#BộGDĐT"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:45:00 +0700"
     },
@@ -171,7 +261,13 @@
         "topic": "Science and Technology",
         "location": "Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a1-dung-17562223697031007949884-0-0-1440-2304-crop-17562223820321082710802.jpg",
-        "hashtag": "#CầuViệtNam #HạTầngGiaoThông #KỹSưViệt #PhátTriểnKinhTế #LịchSửXâyDựng",
+        "hashtags": [
+            "#CầuViệtNam",
+            "#HạTầngGiaoThông",
+            "#KỹSưViệt",
+            "#PhátTriểnKinhTế",
+            "#LịchSửXâyDựng"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:46:00 +0700"
     },
@@ -182,7 +278,13 @@
         "topic": "News",
         "location": "Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a1-online-17562043549171515560136-43-0-683-1024-crop-1756204379430935558888.jpg",
-        "hashtag": "#LuatSuCong #PhapLuatVietNam #BoTuPhap #CaiCachTuPhap #ChinhPhuVietNam",
+        "hashtags": [
+            "#LuatSuCong",
+            "#PhapLuatVietNam",
+            "#BoTuPhap",
+            "#CaiCachTuPhap",
+            "#ChinhPhuVietNam"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:47:00 +0700"
     },
@@ -193,7 +295,13 @@
         "topic": "News",
         "location": "Trụ sở Chính phủ và các tỉnh Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/b1-ol-17562219384551364231301-0-31-618-1020-crop-17562219451941672294472.jpg",
-        "hashtag": "#XoaNhaTam #GiamNgheoBenVung #AnSinhXaHoi #VietNam #PhatTrienBenVung",
+        "hashtags": [
+            "#XoaNhaTam",
+            "#GiamNgheoBenVung",
+            "#AnSinhXaHoi",
+            "#VietNam",
+            "#PhatTrienBenVung"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 05:54:00 +0700"
     },
@@ -204,7 +312,13 @@
         "topic": "News",
         "location": "TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/csgt-phat-dung-do-sai-quy-dinh2-17561948736071801193512-66-0-1666-2560-crop-17561952020311140361429.jpg",
-        "hashtag": "#CSGT #PhạtNguội #TPHCM #GiaoThông #DừngĐỗSai",
+        "hashtags": [
+            "#CSGT",
+            "#PhạtNguội",
+            "#TPHCM",
+            "#GiaoThông",
+            "#DừngĐỗSai"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:00:00 +0700"
     },
@@ -215,7 +329,13 @@
         "topic": "Business",
         "location": "Mỹ và Trung Quốc",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/photo-1756217490383-17562174913381611889085-14-0-1264-2000-crop-1756217538696982984660.jpeg",
-        "hashtag": "#ĐấtHiếm #ThươngMạiMỹTrung #ThuếQuan #SinhViênTrungQuốc #BưuChínhQuốcTế",
+        "hashtags": [
+            "#ĐấtHiếm",
+            "#ThươngMạiMỹTrung",
+            "#ThuếQuan",
+            "#SinhViênTrungQuốc",
+            "#BưuChínhQuốcTế"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:00:00 +0700"
     },
@@ -226,7 +346,13 @@
         "topic": "Science and Technology",
         "location": "TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/xe-buyt-17562133602841561575523-0-5-576-927-crop-1756214380447401394947.jpg",
-        "hashtag": "#XeBuýtĐiện #GiaoThôngXanh #TPHCM #NăngLượngSạch #PhátThảiRòngBằng0",
+        "hashtags": [
+            "#XeBuýtĐiện",
+            "#GiaoThôngXanh",
+            "#TPHCM",
+            "#NăngLượngSạch",
+            "#PhátThảiRòngBằng0"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:03:00 +0700"
     },
@@ -237,7 +363,13 @@
         "topic": "News",
         "location": "Ho Chi Minh City",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a-1-trang-16-239-17562110761361951648766-106-0-1706-2560-crop-1756211085857914709940.jpg",
-        "hashtag": "#ĐồngPhụcHọcSinh #GiáoDục #TPHCM #PhụHuynh #ChiPhíHọcTập",
+        "hashtags": [
+            "#ĐồngPhụcHọcSinh",
+            "#GiáoDục",
+            "#TPHCM",
+            "#PhụHuynh",
+            "#ChiPhíHọcTập"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:05:00 +0700"
     },
@@ -248,7 +380,13 @@
         "topic": "News",
         "location": "Cần Thơ, Hậu Giang",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/photo-1756216624087-17562166248261661962180-0-0-1250-2000-crop-17562166494251931102005.jpeg",
-        "hashtag": "#PCCC #CứuNạnCứuHộ #CôngAnNhânDân #LêHoàngBảo #CầnThơ",
+        "hashtags": [
+            "#PCCC",
+            "#CứuNạnCứuHộ",
+            "#CôngAnNhânDân",
+            "#LêHoàngBảo",
+            "#CầnThơ"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:11:00 +0700"
     },
@@ -259,7 +397,13 @@
         "topic": "News",
         "location": "miền núi Himalaya bên phần Ấn Độ",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/an-do-17562133706982131793997-0-94-525-934-crop-1756215426242288855398.jpg",
-        "hashtag": "#DuLịchQuáTải #ẤnĐộ #Himalaya #LũQuét #DuLịchBềnVững",
+        "hashtags": [
+            "#DuLịchQuáTải",
+            "#ẤnĐộ",
+            "#Himalaya",
+            "#LũQuét",
+            "#DuLịchBềnVững"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:13:00 +0700"
     },
@@ -270,7 +414,13 @@
         "topic": "News",
         "location": "Hà Nội, Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/000-bia-1-ol-ava-1756212225222737837110-67-0-707-1024-crop-175621223338219163594.jpg",
-        "hashtag": "#QuốcKhánhViệtNam #ThanhNiên #ViệtNamHạnhPhúc #TuyênNgônĐộcLập #KỷNiệm80Năm",
+        "hashtags": [
+            "#QuốcKhánhViệtNam",
+            "#ThanhNiên",
+            "#ViệtNamHạnhPhúc",
+            "#TuyênNgônĐộcLập",
+            "#KỷNiệm80Năm"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:21:00 +0700"
     },
@@ -281,7 +431,13 @@
         "topic": "Sports",
         "location": "Thành phố Manchester",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/v-league-1-175621342252519925612-51-0-691-1024-crop-175621570923365582602.jpg",
-        "hashtag": "#BóngĐá #PremierLeague #ThủMôn #ManchesterUnited #ManchesterCity",
+        "hashtags": [
+            "#BóngĐá",
+            "#PremierLeague",
+            "#ThủMôn",
+            "#ManchesterUnited",
+            "#ManchesterCity"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:31:00 +0700"
     },
@@ -292,7 +448,13 @@
         "topic": "News",
         "location": "thôn Soi Hà, xã Xuân Vân, tỉnh Tuyên Quang",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/z689470684044531b298d6c82681a275c93a20c8ca6344-1756213405488286103540-107-0-1707-2560-crop-1756213458472108577813.jpg",
-        "hashtag": "#VaoDang #VuQuocBao #TuyenQuang #CongHien #LyTuongCachMang",
+        "hashtags": [
+            "#VaoDang",
+            "#VuQuocBao",
+            "#TuyenQuang",
+            "#CongHien",
+            "#LyTuongCachMang"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:32:00 +0700"
     },
@@ -303,7 +465,13 @@
         "topic": "Life Style",
         "location": "TP.HCM và cả nước Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a1-online-17562010795141729361834-0-37-591-983-crop-1756201119995267446328.jpg",
-        "hashtag": "#TiếtKiệmĐiện #AnToànĐiện #EVNHCMC #BáoThanhNiên #CuộcThiCộngĐồng",
+        "hashtags": [
+            "#TiếtKiệmĐiện",
+            "#AnToànĐiện",
+            "#EVNHCMC",
+            "#BáoThanhNiên",
+            "#CuộcThiCộngĐồng"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:39:00 +0700"
     },
@@ -314,7 +482,13 @@
         "topic": "News",
         "location": "Hà Nội",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/ky-nguyen-so1-1756213351017764652802-22-0-662-1024-crop-175625201915439651740.jpg",
-        "hashtag": "#CáchMạngThángTám #TuổiTrẻViệtNam #ĐạiĐoànKết #ViệtNamHùngCường #KỷNguyênSố",
+        "hashtags": [
+            "#CáchMạngThángTám",
+            "#TuổiTrẻViệtNam",
+            "#ĐạiĐoànKết",
+            "#ViệtNamHùngCường",
+            "#KỷNguyênSố"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:47:00 +0700"
     },
@@ -325,7 +499,13 @@
         "topic": "Stock and Investment",
         "location": "Hoa Kỳ",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/lockheed-1756250735497355373861-10-0-608-956-crop-17562521660511584388677.png",
-        "hashtag": "#ChinhQuyenTrump #NhaThauQuanSu #LockheedMartin #CoPhan #QuocPhong",
+        "hashtags": [
+            "#ChinhQuyenTrump",
+            "#NhaThauQuanSu",
+            "#LockheedMartin",
+            "#CoPhan",
+            "#QuocPhong"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:55:00 +0700"
     },
@@ -336,7 +516,13 @@
         "topic": "News",
         "location": "Nhà Trắng",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/2025-08-26t165101z225650707rc24fgafigrirtrmadp3usa-trump-17562523557401765868131-0-0-1600-2560-crop-1756252611614199469968.jpg",
-        "hashtag": "#Trump #NgaUkraine #CấmVậnKinhTế #NgừngBắn #XungĐột",
+        "hashtags": [
+            "#Trump",
+            "#NgaUkraine",
+            "#CấmVậnKinhTế",
+            "#NgừngBắn",
+            "#XungĐột"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 06:59:00 +0700"
     },
@@ -347,7 +533,13 @@
         "topic": "News",
         "location": "TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/avatar1756222001609-1756222001933272478932.jpeg",
-        "hashtag": "#TửVongBíẨn #TPHCM #ÁnMạng #TinTức #ThanhNiên",
+        "hashtags": [
+            "#TửVongBíẨn",
+            "#TPHCM",
+            "#ÁnMạng",
+            "#TinTức",
+            "#ThanhNiên"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:11:00 +0700"
     },
@@ -358,7 +550,13 @@
         "topic": "News",
         "location": "Xuân Mai, Hà Nội",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/nuoc-lu-17562284527941270163627-126-0-1667-2466-crop-1756228696278946380914.jpg",
-        "hashtag": "#HàNội #LũLụt #ĐắpĐê #SôngBùi #XuânMai",
+        "hashtags": [
+            "#HàNội",
+            "#LũLụt",
+            "#ĐắpĐê",
+            "#SôngBùi",
+            "#XuânMai"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:11:00 +0700"
     },
@@ -369,7 +567,13 @@
         "topic": "News",
         "location": "Hà Nội và các tỉnh Bắc Bộ, Thanh Hóa",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/photo-1756252324250-1756252327377543434656-41-0-1250-1935-crop-17562523577741565026544.jpeg",
-        "hashtag": "#MưaLớnHàNội #NgậpLụt #BãoSố5 #LũQuét #SạtLởĐất",
+        "hashtags": [
+            "#MưaLớnHàNội",
+            "#NgậpLụt",
+            "#BãoSố5",
+            "#LũQuét",
+            "#SạtLởĐất"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:22:00 +0700"
     },
@@ -380,7 +584,13 @@
         "topic": "Entertainment",
         "location": "Kansas City, Mỹ",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/27/ts2-17562530477361599559272-86-152-741-1200-crop-1756253703727350338347.jpg",
-        "hashtag": "#TaylorSwift #TravisKelce #DinhHon #GiaiTri #Showbiz",
+        "hashtags": [
+            "#TaylorSwift",
+            "#TravisKelce",
+            "#DinhHon",
+            "#GiaiTri",
+            "#Showbiz"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:38:00 +0700"
     },
@@ -391,7 +601,13 @@
         "topic": "Sports",
         "location": "Vietnam, Southeast Asia, Asia",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/u23-vn1-1756213384380353911228-27-0-667-1024-crop-17562146881521190013786.jpg",
-        "hashtag": "#U23ViệtNam #BóngĐá #HLVKimSangSik #TiềnVệ #VòngLoạiU23ChâuÁ",
+        "hashtags": [
+            "#U23ViệtNam",
+            "#BóngĐá",
+            "#HLVKimSangSik",
+            "#TiềnVệ",
+            "#VòngLoạiU23ChâuÁ"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:41:00 +0700"
     },
@@ -402,7 +618,13 @@
         "topic": "Entertainment",
         "location": "TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/ctcs-116-thanh-ngoc-5-1756216653843159448411-0-0-937-1500-crop-17562171732911597300979.png",
-        "hashtag": "#ThanhNgoc #ShowbizViet #CaSiViet #MatNgoc #AmNhac",
+        "hashtags": [
+            "#ThanhNgoc",
+            "#ShowbizViet",
+            "#CaSiViet",
+            "#MatNgoc",
+            "#AmNhac"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:42:00 +0700"
     },
@@ -413,7 +635,13 @@
         "topic": "News",
         "location": "Boston, bang Massachusetts, Mỹ",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/27/afp2025052848cn4a7v1highresuspoliticseducationharvard-1756254277233207025755-107-0-1707-2560-crop-1756254327298538114297.jpg",
-        "hashtag": "#Trump #Harvard #ĐạiHọcHarvard #TàiTrợLiênBang #BàiDoThái",
+        "hashtags": [
+            "#Trump",
+            "#Harvard",
+            "#ĐạiHọcHarvard",
+            "#TàiTrợLiênBang",
+            "#BàiDoThái"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:43:00 +0700"
     },
@@ -424,7 +652,13 @@
         "topic": "News",
         "location": "Quảng Ngãi",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/z6948037307670695a2614ee5d3898d36bba59766d94f3-17562523266142001742511-78-0-878-1280-crop-1756252479608618425470.jpg",
-        "hashtag": "#ĐiệnGiật #HọcSinhTửVong #KhởiTố #QuảngNgãi #VănNghệTaiNạn",
+        "hashtags": [
+            "#ĐiệnGiật",
+            "#HọcSinhTửVong",
+            "#KhởiTố",
+            "#QuảngNgãi",
+            "#VănNghệTaiNạn"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:48:00 +0700"
     },
@@ -435,7 +669,13 @@
         "topic": "News",
         "location": "Quảng trường Ba Đình và các tuyến phố Hà Nội",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/27/98e913eed94f5111085e-1756253822815855150708-0-0-1600-2560-crop-17562539407071284576586.jpg",
-        "hashtag": "#DieuBinh #QuocKhanh2_9 #HaNoi #QuangTruongBaDinh #CamDuong",
+        "hashtags": [
+            "#DieuBinh",
+            "#QuocKhanh2_9",
+            "#HaNoi",
+            "#QuangTruongBaDinh",
+            "#CamDuong"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:48:00 +0700"
     },
@@ -446,7 +686,13 @@
         "topic": "Technology",
         "location": "Nhà hát Steve Jobs, Cupertino (Mỹ)",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/1-17562454905341321451954-0-16-563-917-crop-17562454936271216322397.jpg",
-        "hashtag": "#AppleEvent #iPhone17 #AppleWatch #AirPodsPro3 #CôngNghệ",
+        "hashtags": [
+            "#AppleEvent",
+            "#iPhone17",
+            "#AppleWatch",
+            "#AirPodsPro3",
+            "#CôngNghệ"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:54:00 +0700"
     },
@@ -457,7 +703,13 @@
         "topic": "News",
         "location": "Đường Bến Nghé, P.Tân Thuận, TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/bdv-1-17561203898491571081622-145-0-785-1024-crop-1756174795549415150875.jpg",
-        "hashtag": "#ĐườngBếnNghé #ĐườngXuốngCấp #GiaoThôngNguyHiểm #TPHCM #SửaChữaĐường",
+        "hashtags": [
+            "#ĐườngBếnNghé",
+            "#ĐườngXuốngCấp",
+            "#GiaoThôngNguyHiểm",
+            "#TPHCM",
+            "#SửaChữaĐường"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:59:00 +0700"
     },
@@ -468,7 +720,13 @@
         "topic": "Life Style",
         "location": "thôn Khe Thờ, xã Đồng Lộc, Hà Tĩnh",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/photo-1756215318703-17562153191751856401114-0-0-798-1276-crop-17562153714101820518707.jpeg",
-        "hashtag": "#HiếnĐấtMởĐường #TìnhLàngNghĩaXóm #ViệcLàmCaoĐẹp #CộngĐồng #HàTĩnh",
+        "hashtags": [
+            "#HiếnĐấtMởĐường",
+            "#TìnhLàngNghĩaXóm",
+            "#ViệcLàmCaoĐẹp",
+            "#CộngĐồng",
+            "#HàTĩnh"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:59:00 +0700"
     },
@@ -479,7 +737,13 @@
         "topic": "News",
         "location": "Vườn Chuối, Quận 3, TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/photo-1756216320269-17562163211221993132071-94-0-748-1046-crop-1756216342990503101628.jpeg",
-        "hashtag": "#ÔNhiễmMôiTrường #RácThải #VườnChuối #TPHCM #BứcXúcDânSinh",
+        "hashtags": [
+            "#ÔNhiễmMôiTrường",
+            "#RácThải",
+            "#VườnChuối",
+            "#TPHCM",
+            "#BứcXúcDânSinh"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 07:59:00 +0700"
     },
@@ -490,7 +754,13 @@
         "topic": "Life Style",
         "location": "Hồ Chí Minh",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/25/anh-2-1-1756114599800712562493-485-0-2085-2560-crop-17561151266171311883383.jpg",
-        "hashtag": "#VayMidi #ThoiTrangThu #PhongCachNuTinh #ThanhLich #FashionTrends",
+        "hashtags": [
+            "#VayMidi",
+            "#ThoiTrangThu",
+            "#PhongCachNuTinh",
+            "#ThanhLich",
+            "#FashionTrends"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -501,7 +771,13 @@
         "topic": "News",
         "location": "Phổ Quang, P.Tân Sơn Hòa, Q.Tân Bình, TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/tu-phan-anh-ban-doc-1756120389958661132648-128-0-768-1024-crop-17561743627631018118657.jpg",
-        "hashtag": "#ĐiểmDừngXeBuýt #LấnChiếm #PhếLiệu #TPHCM #AnToànGiaoThông",
+        "hashtags": [
+            "#ĐiểmDừngXeBuýt",
+            "#LấnChiếm",
+            "#PhếLiệu",
+            "#TPHCM",
+            "#AnToànGiaoThông"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -512,7 +788,13 @@
         "topic": "Business",
         "location": "Van Phuc City, TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/27/img-5935-17562572312401269963342-0-86-1121-1880-crop-1756257243583933120658.jpeg",
-        "hashtag": "#DiamondSky #VanPhucCity #CanHoCaoCap #BatDongSan #DauTuBatDongSan",
+        "hashtags": [
+            "#DiamondSky",
+            "#VanPhucCity",
+            "#CanHoCaoCap",
+            "#BatDongSan",
+            "#DauTuBatDongSan"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -523,7 +805,13 @@
         "topic": "Health",
         "location": "Hà Nội và TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/640x400-1756198569802813685433.png",
-        "hashtag": "#NhồiMáuCơTim #BệnhTimMạch #TầmSoátSớm #BệnhViệnTâmAnh #CôngNghệYKhoa",
+        "hashtags": [
+            "#NhồiMáuCơTim",
+            "#BệnhTimMạch",
+            "#TầmSoátSớm",
+            "#BệnhViệnTâmAnh",
+            "#CôngNghệYKhoa"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -534,7 +822,13 @@
         "topic": "Business",
         "location": "Biên Hòa, Đồng Nai, phía Đông TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/hinh-1-1756200826647818408738-0-70-787-1329-crop-17562009579561014014815.png",
-        "hashtag": "#IzumiCanaria #BấtĐộngSản #ĐồngNai #IzumiCity #NamLong",
+        "hashtags": [
+            "#IzumiCanaria",
+            "#BấtĐộngSản",
+            "#ĐồngNai",
+            "#IzumiCity",
+            "#NamLong"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -545,7 +839,13 @@
         "topic": "Business",
         "location": "TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/satra1-1756201501069702653343-0-155-1406-2405-crop-1756201759338432480903.jpg",
-        "hashtag": "#SATRA #VìCộngĐồng #TráchNhiệmXãHội #PhátTriểnBềnVững #HộiThao",
+        "hashtags": [
+            "#SATRA",
+            "#VìCộngĐồng",
+            "#TráchNhiệmXãHội",
+            "#PhátTriểnBềnVững",
+            "#HộiThao"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -556,7 +856,13 @@
         "topic": "Technology",
         "location": null,
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/picture-1-1756202224388380644567-0-0-568-909-crop-17562026342841192836556.png",
-        "hashtag": "#VbeeAIVoice #CôngNghệGiọngNóiAI #NhânBảnGiọng #KiếmTiềnOnline #SángTạoNộiDung",
+        "hashtags": [
+            "#VbeeAIVoice",
+            "#CôngNghệGiọngNóiAI",
+            "#NhânBảnGiọng",
+            "#KiếmTiềnOnline",
+            "#SángTạoNộiDung"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -567,7 +873,13 @@
         "topic": "Business",
         "location": "Hải Phòng và TP.HCM, Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/hinh-2-the-rivus-17562035354174845012-0-48-588-989-crop-1756203830920921050299.jpg",
-        "hashtag": "#MasteriseHomes #ThiếtKếKiếnTrúc #BấtĐộngSảnHàngHiệu #AADAAwards2025 #ViệtNam",
+        "hashtags": [
+            "#MasteriseHomes",
+            "#ThiếtKếKiếnTrúc",
+            "#BấtĐộngSảnHàngHiệu",
+            "#AADAAwards2025",
+            "#ViệtNam"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -578,7 +890,13 @@
         "topic": "Arts and Culture",
         "location": "Khu Du lịch văn hóa Suối Tiên, TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/a2-175620546166052902069-0-0-733-1173-crop-17562057433611117785050.png",
-        "hashtag": "#SuoiTien #Le2Thang9 #KyNiem30Nam #DuLichDem #GiaiTriVanHoa",
+        "hashtags": [
+            "#SuoiTien",
+            "#Le2Thang9",
+            "#KyNiem30Nam",
+            "#DuLichDem",
+            "#GiaiTriVanHoa"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -589,7 +907,13 @@
         "topic": "Finance",
         "location": "Thanh Hóa",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/chubb-1756206383048978764954-39-0-650-977-crop-1756206402787661152760.png",
-        "hashtag": "#ChubbLifeViệtNam #ThanhHóa #BảoHiểmNhânThọ #VănPhòngInfinity #PhátTriểnKinhDoanh",
+        "hashtags": [
+            "#ChubbLifeViệtNam",
+            "#ThanhHóa",
+            "#BảoHiểmNhânThọ",
+            "#VănPhòngInfinity",
+            "#PhátTriểnKinhDoanh"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -600,7 +924,13 @@
         "topic": "Business",
         "location": "Việt Nam, TP.HCM",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/tan-tan-5-17562071131791245565311-59-0-934-1400-crop-17562072658921450197208.jpg",
-        "hashtag": "#ĐồngHồTânTân #CitizenViệtNam #LịchSửThươngHiệu #KinhDoanhĐồngHồ #ShowroomĐồngHồ",
+        "hashtags": [
+            "#ĐồngHồTânTân",
+            "#CitizenViệtNam",
+            "#LịchSửThươngHiệu",
+            "#KinhDoanhĐồngHồ",
+            "#ShowroomĐồngHồ"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -611,7 +941,13 @@
         "topic": "Health",
         "location": "Khánh Hòa",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/h1-1756207962785593550271-0-239-1196-2153-crop-17562081287751379354342.jpg",
-        "hashtag": "#BHYTKhánhHòa #BHYTHSSV #BảoHiểmYTế #AnSinhXãHội #KhánhHòa",
+        "hashtags": [
+            "#BHYTKhánhHòa",
+            "#BHYTHSSV",
+            "#BảoHiểmYTế",
+            "#AnSinhXãHội",
+            "#KhánhHòa"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -622,7 +958,13 @@
         "topic": "Arts and Culture",
         "location": "Quảng Ngãi, Việt Nam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/9a-online-1756221398617932922424-0-0-575-920-crop-1756222653429688458064.jpg",
-        "hashtag": "#ThanhThao #Nhatho #Truongca #ThoViet #Vanhoa",
+        "hashtags": [
+            "#ThanhThao",
+            "#Nhatho",
+            "#Truongca",
+            "#ThoViet",
+            "#Vanhoa"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:00:00 +0700"
     },
@@ -633,7 +975,13 @@
         "topic": "Arts and Culture",
         "location": "Ho Chi Minh City, Vietnam",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/19d-online-17562213995191939986430-79-0-719-1024-crop-1756222311875112171495.jpg",
-        "hashtag": "#TemBưuChính #LịchSửViệtNam #QuốcKhánhVN #VănHóaViệt #HồChíMinh",
+        "hashtags": [
+            "#TemBưuChính",
+            "#LịchSửViệtNam",
+            "#QuốcKhánhVN",
+            "#VănHóaViệt",
+            "#HồChíMinh"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:06:00 +0700"
     },
@@ -644,7 +992,13 @@
         "topic": "Sports",
         "location": "Hà Nội",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/27/malaysia-vietnam-2-1749603826265922140090-269-32-1512-2021-crop-1756256666626640361099.jpg",
-        "hashtag": "#ĐộiTuyểnViệtNam #BóngĐáViệtNam #AsianCup2027 #TáiThiếtĐộiHình #TuyểnThủMới",
+        "hashtags": [
+            "#ĐộiTuyểnViệtNam",
+            "#BóngĐáViệtNam",
+            "#AsianCup2027",
+            "#TáiThiếtĐộiHình",
+            "#TuyểnThủMới"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:13:00 +0700"
     },
@@ -655,7 +1009,13 @@
         "topic": "Technology",
         "location": "South Korea",
         "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/26/one-ui-8-1756217070027931403035-0-0-625-1000-crop-1756217099073891996032.jpg",
-        "hashtag": "#Samsung #OneUI8 #Galaxy #CậpNhật #CôngNghệ",
+        "hashtags": [
+            "#Samsung",
+            "#OneUI8",
+            "#Galaxy",
+            "#CậpNhật",
+            "#CôngNghệ"
+        ],
         "source": "thanhnien.vn",
         "publishedDate": "Wed, 27 Aug 25 08:14:00 +0700"
     },
@@ -666,7 +1026,13 @@
         "topic": "Finance",
         "location": "quận ngoại thành Hà Nội",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/17/patient5893024971000-175541907-7672-4743-1755419208.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_z98Fjvjcs3qgx1-sJhpFg",
-        "hashtag": "#TrợCấpỐmĐau #LuậtBảoHiểmXãHội2024 #BảoHiểmXãHội #QuyềnLợiNgườiLaoĐộng #PhápLuậtLaoĐộng",
+        "hashtags": [
+            "#TrợCấpỐmĐau",
+            "#LuậtBảoHiểmXãHội2024",
+            "#BảoHiểmXãHội",
+            "#QuyềnLợiNgườiLaoĐộng",
+            "#PhápLuậtLaoĐộng"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -677,7 +1043,13 @@
         "topic": "Arts and Culture",
         "location": "Hà Nội, Việt Nam",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/25/quan-1756115576-9129-1756115621.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Kf3vzUXaHC2wCyuRtO4A-w",
-        "hashtag": "#NgườiPhápYêuHàNội #LịchSửHàNội #DiSảnVănHóa #KiếnTrúcPháp #GiáoDụcYế",
+        "hashtags": [
+            "#NgườiPhápYêuHàNội",
+            "#LịchSửHàNội",
+            "#DiSảnVănHóa",
+            "#KiếnTrúcPháp",
+            "#GiáoDụcYế"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -688,7 +1060,13 @@
         "topic": "Entertainment",
         "location": "Planet Hollywood, Las Vegas, Mỹ",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/23/hinh-duoi-chan-bai-17559250877521206062647-240-0-1440-1920-crop-1755925231444565574050.jpg",
-        "hashtag": "#Anhtraisayhi #VanhoaViet #GiaitriViet #LasVegasConcert #XuatkhauVanhoa",
+        "hashtags": [
+            "#Anhtraisayhi",
+            "#VanhoaViet",
+            "#GiaitriViet",
+            "#LasVegasConcert",
+            "#XuatkhauVanhoa"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 18:42:00 GMT+7"
     },
@@ -699,7 +1077,13 @@
         "topic": "Entertainment",
         "location": "Quảng Trị",
         "image": "https://vcdn1-giaitri.vnecdn.net/2025/08/26/mu-a-do-1756166534-1756167123-8373-1756167163.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bNfh3MjexOaY_RBKWhiXjQ",
-        "hashtag": "#MưaĐỏ #PhimChiếnTranh #ThànhCổQuảngTrị #ĐiệnẢnhViệtNam #PhimTrămTỷ",
+        "hashtags": [
+            "#MưaĐỏ",
+            "#PhimChiếnTranh",
+            "#ThànhCổQuảngTrị",
+            "#ĐiệnẢnhViệtNam",
+            "#PhimTrămTỷ"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -710,7 +1094,13 @@
         "topic": "Finance",
         "location": "Hà Nội, TP Hồ Chí Minh, Sài Gòn",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/geminigeneratedimages7gzqms7gz-5125-8702-1756197106.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AXLtPPUY0f1WMceZADTw9A",
-        "hashtag": "#VayMuaNha #ApLucTraNo #BatDongSan #TaiChinh #LoiKhuyenTaiChinh",
+        "hashtags": [
+            "#VayMuaNha",
+            "#ApLucTraNo",
+            "#BatDongSan",
+            "#TaiChinh",
+            "#LoiKhuyenTaiChinh"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -721,7 +1111,13 @@
         "topic": "News",
         "location": "Hà Nội, Quảng trường Ba Đình",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/HUY-7681-1756202941.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SOBoRvOEyLNbQgqGmQu13Q",
-        "hashtag": "#DiễuBinhQuốcKhánh #QuânNhânNga #HàNội #QuốcKhánh2_9 #ĐộcLậpViệtNam",
+        "hashtags": [
+            "#DiễuBinhQuốcKhánh",
+            "#QuânNhânNga",
+            "#HàNội",
+            "#QuốcKhánh2_9",
+            "#ĐộcLậpViệtNam"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -732,7 +1128,13 @@
         "topic": "Finance",
         "location": "Hà Nội, Hải Phòng, TP.HCM",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/hinh-1-2-17561883016341627567337-0-0-1600-2560-crop-17561934674931525551380.jpg",
-        "hashtag": "#BaoHiemNhanTho #KeHoachTaiChinh #GiaoDucConCai #Manulife #XanhUocMo",
+        "hashtags": [
+            "#BaoHiemNhanTho",
+            "#KeHoachTaiChinh",
+            "#GiaoDucConCai",
+            "#Manulife",
+            "#XanhUocMo"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 18:42:36 GMT+7"
     },
@@ -743,7 +1145,13 @@
         "topic": "Business",
         "location": "Việt Nam và khu vực nông thôn",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/22/nguoi-tieu-dung-mua-sam-thit-u-mat-meatdeli-17558557763421775247724-107-0-1707-2560-crop-17558558661122125152052.jpg",
-        "hashtag": "#Masan #TiêuDùng #BánLẻ #ViệtNam #PhátTriểnBềnVững",
+        "hashtags": [
+            "#Masan",
+            "#TiêuDùng",
+            "#BánLẻ",
+            "#ViệtNam",
+            "#PhátTriểnBềnVững"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 18:46:00 GMT+7"
     },
@@ -754,7 +1162,13 @@
         "topic": "News",
         "location": "Phú Thọ, Hà Nội",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/dong-dat-phu-tho-ha-noi-17562085754432111812547.jpg",
-        "hashtag": "#ĐộngĐất #PhúThọ #HàNội #RungLắc #ThiênTai",
+        "hashtags": [
+            "#ĐộngĐất",
+            "#PhúThọ",
+            "#HàNội",
+            "#RungLắc",
+            "#ThiênTai"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 18:54:41 GMT+7"
     },
@@ -765,7 +1179,13 @@
         "topic": "Life Style",
         "location": null,
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/GeminiGeneratedImage7zt0vg7zt0-5306-1903-1756216494.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6iIMLGUq6fI121HAMdUpHg",
-        "hashtag": "#KhủngHoảngTuổi33 #ĐànÔng #ÁpLựcCuộcSống #TrưởngThành #TâmSự",
+        "hashtags": [
+            "#KhủngHoảngTuổi33",
+            "#ĐànÔng",
+            "#ÁpLựcCuộcSống",
+            "#TrưởngThành",
+            "#TâmSự"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -776,7 +1196,13 @@
         "topic": "Technology",
         "location": null,
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/671a2e9b7dcb4225a6b9139c075149-9703-3209-1756225551.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZVeSxBRqHFE92cKrlm7tAA",
-        "hashtag": "#VnExpress #Discover #VideoControl #Podcast #SocialSharing",
+        "hashtags": [
+            "#VnExpress",
+            "#Discover",
+            "#VideoControl",
+            "#Podcast",
+            "#SocialSharing"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -787,7 +1213,13 @@
         "topic": "Business",
         "location": "Việt Nam",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/snapedit-1754279682551-jpeg-17-1678-8204-1756227238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cvh5aA6k9aabGbeF4suF5A",
-        "hashtag": "#SHTT #ViPhạmSHTT #BảoVệSángTạo #KinhTếSố #ViệtNam",
+        "hashtags": [
+            "#SHTT",
+            "#ViPhạmSHTT",
+            "#BảoVệSángTạo",
+            "#KinhTếSố",
+            "#ViệtNam"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -798,7 +1230,13 @@
         "topic": "Business",
         "location": "Thành phố Hồ Chí Minh, Việt Nam",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/h-1756208377822757089518-0-0-1600-2560-crop-1756208429912946208151.jpg",
-        "hashtag": "#SốNhàTPHCM #TênĐường #QuyHoạchĐôThị #SởXâyDựng #TPHCM",
+        "hashtags": [
+            "#SốNhàTPHCM",
+            "#TênĐường",
+            "#QuyHoạchĐôThị",
+            "#SởXâyDựng",
+            "#TPHCM"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:07:09 GMT+7"
     },
@@ -809,7 +1247,9 @@
         "topic": "Business",
         "location": "Việt Nam",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/hdb1-17562090884461663869568-0-0-1218-1949-crop-1756209252746468165045.png",
-        "hashtag": "#HDBank#XóaNhàTạm#AnSinhXãHội#PhátTriểnBềnVững#ThủTướngKhenThưởng",
+        "hashtags": [
+            "#HDBank#XóaNhàTạm#AnSinhXãHội#PhátTriểnBềnVững#ThủTướngKhenThưởng"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:09:46 GMT+7"
     },
@@ -820,7 +1260,13 @@
         "topic": "Business",
         "location": "Vietnam",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/sbj-2-17562029874031670178441-0-0-1250-2000-crop-17562029915431029762360.jpg",
-        "hashtag": "#VàngMiếng #NgânHàngNhàNước #NghịĐịnh232 #ThịTrườngVàng #KinhDoanhVàng",
+        "hashtags": [
+            "#VàngMiếng",
+            "#NgânHàngNhàNước",
+            "#NghịĐịnh232",
+            "#ThịTrườngVàng",
+            "#KinhDoanhVàng"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:10:57 GMT+7"
     },
@@ -831,7 +1277,13 @@
         "topic": "Life Style",
         "location": "Hà Nội, chung cư Ecohome 1, Đông Ngạc",
         "image": "https://vcdn1-giadinh.vnecdn.net/2025/08/26/chung-cu-2-1756221527-17562220-5147-5188-1756222803.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ceqT6fVi0EYWR43yJa6YIQ",
-        "hashtag": "#Hanoi #NgậpLụt #CứuTrợ #TìnhNguyện #CộngĐồng",
+        "hashtags": [
+            "#Hanoi",
+            "#NgậpLụt",
+            "#CứuTrợ",
+            "#TìnhNguyện",
+            "#CộngĐồng"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:00 +0700"
     },
@@ -842,7 +1294,13 @@
         "topic": "News",
         "location": "Biển Thiên Cầm, Cẩm Xuyên, Hà Tĩnh",
         "image": "https://vcdn1-dulich.vnecdn.net/2025/08/26/anh-man-hinh-2025-08-26-luc-22-5251-9353-1756222049.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IR0_6X3MRBftD1mYNI_ufQ",
-        "hashtag": "#BãoKajiki #ThiênCầm #HàTĩnh #ThiênTai #DuLịch",
+        "hashtags": [
+            "#BãoKajiki",
+            "#ThiênCầm",
+            "#HàTĩnh",
+            "#ThiênTai",
+            "#DuLịch"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:14 +0700"
     },
@@ -853,7 +1311,13 @@
         "topic": "News",
         "location": "Biển Đông, Bắc Bộ, Bắc Trung Bộ, Hà Nội, Philippines",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/z6945194994765a04c62f398326f84c257c7628c6166fe-17561738843171015796064-248-0-1848-2560-crop-1756209886375356509814.jpg",
-        "hashtag": "#ÁpThấpNhiệtĐới #BiểnĐông #MưaLớn #NgậpLụt #ThờiTiết",
+        "hashtags": [
+            "#ÁpThấpNhiệtĐới",
+            "#BiểnĐông",
+            "#MưaLớn",
+            "#NgậpLụt",
+            "#ThờiTiết"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:16:30 GMT+7"
     },
@@ -864,7 +1328,13 @@
         "topic": "Business",
         "location": "Hải Phòng, Việt Nam",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/deep-c-gate-1756196569234558988798-288-0-1888-2560-crop-17561966372101322044611.jpg",
-        "hashtag": "#PhatTrienXanh #CongNghiepBenVung #NetZero2050 #NangLuongThongMinh #KhuCongNghiepSinhThai",
+        "hashtags": [
+            "#PhatTrienXanh",
+            "#CongNghiepBenVung",
+            "#NetZero2050",
+            "#NangLuongThongMinh",
+            "#KhuCongNghiepSinhThai"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:25:12 GMT+7"
     },
@@ -875,7 +1345,13 @@
         "topic": "Technology",
         "location": null,
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/cuopvangdanang-1756226144-3980-1756226148.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=iLJRzMl07eXkYCaFk4lxyw&t=image",
-        "hashtag": "#PhímTắtVideo #VnExpress #ĐiềuKhiểnMedia #VideoShorts #ChiaSẻMạngXãHội",
+        "hashtags": [
+            "#PhímTắtVideo",
+            "#VnExpress",
+            "#ĐiềuKhiểnMedia",
+            "#VideoShorts",
+            "#ChiaSẻMạngXãHội"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:00:41 +0700"
     },
@@ -886,7 +1362,9 @@
         "topic": "Life Style",
         "location": null,
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/gemini-generated-image-3hfnlz3-8931-9063-1756194161.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pL0ME7P45XselqsgJLoUDA",
-        "hashtag": "#PhongThuy#TuVi#TaiLoc#ThinhVuong#ConGiap",
+        "hashtags": [
+            "#PhongThuy#TuVi#TaiLoc#ThinhVuong#ConGiap"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:02:00 +0700"
     },
@@ -897,7 +1375,13 @@
         "topic": "Sports",
         "location": "NovaWorld Phan Thiet",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/photo-1756188816058-1756188816175514779596-83-0-1333-2000-crop-1756188939530923493733.jpg",
-        "hashtag": "#GiaiChay #CongAnNhanDan #NovaWorldPhanThiet #SportsFestival2025 #AnNinhToQuoc",
+        "hashtags": [
+            "#GiaiChay",
+            "#CongAnNhanDan",
+            "#NovaWorldPhanThiet",
+            "#SportsFestival2025",
+            "#AnNinhToQuoc"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:30:00 GMT+7"
     },
@@ -908,7 +1392,13 @@
         "topic": "Business",
         "location": "Việt Nam",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/a3-17562104602271176812653-0-62-900-1502-crop-17562108427571278899874.jpg",
-        "hashtag": "#SinhTrắcHọc #VNeID #Vietjet #HàngKhông #SânBay",
+        "hashtags": [
+            "#SinhTrắcHọc",
+            "#VNeID",
+            "#Vietjet",
+            "#HàngKhông",
+            "#SânBay"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:31:00 GMT+7"
     },
@@ -919,7 +1409,13 @@
         "topic": "Health",
         "location": "Nam Sài Gòn",
         "image": "https://vcdn1-suckhoe.vnecdn.net/2025/08/26/screenshot-2025-08-26-at-14-46-3857-1673-1756194512.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=C9yo0C2n8e0CKu_Ec-s9ow",
-        "hashtag": "#ĂnSángLànhMạnh #ChốngLãoHóa #SứcKhỏe #DinhDưỡng #ThóiQuenĂnUống",
+        "hashtags": [
+            "#ĂnSángLànhMạnh",
+            "#ChốngLãoHóa",
+            "#SứcKhỏe",
+            "#DinhDưỡng",
+            "#ThóiQuenĂnUống"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:02:00 +0700"
     },
@@ -930,7 +1426,13 @@
         "topic": "Science and Technology",
         "location": "Na Uy, Bắc Hải, châu Âu",
         "image": "https://vcdn1-kinhdoanh.vnecdn.net/2025/08/26/norway-carbon-capture-storage-8397-6147-1756201158.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xUbt1EjQcQbjcBBh21OqAg",
-        "hashtag": "#CarbonCapture #CCS #BiếnĐổiKhíHậu #NaUy #NăngLượngBềnVững",
+        "hashtags": [
+            "#CarbonCapture",
+            "#CCS",
+            "#BiếnĐổiKhíHậu",
+            "#NaUy",
+            "#NăngLượngBềnVững"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:02:00 +0700"
     },
@@ -941,7 +1443,13 @@
         "topic": "Business",
         "location": "Tỉnh Quảng Ngãi, xã Măng Đen",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/DJI-0768-JPG-7113-1756207863.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iuJ2IFN-UAREhs7-mHJGAA",
-        "hashtag": "#QuangNgai #MangDen #KhuDoThi #BatDongSan #DuLich",
+        "hashtags": [
+            "#QuangNgai",
+            "#MangDen",
+            "#KhuDoThi",
+            "#BatDongSan",
+            "#DuLich"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:05:00 +0700"
     },
@@ -952,7 +1460,13 @@
         "topic": "Business",
         "location": "tỉnh Quảng Ngãi",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/doi-thoai-cung-doanh-nghiep-quang-ngai-vuong-mac-dau-tu-thuy-dien-2-1756210209045653283078-86-0-1686-2560-crop-1756210460911342648583.jpg",
-        "hashtag": "#QuangNgai #DoanhNghiep #ThaoGoVuongMac #DatDai #Thue",
+        "hashtags": [
+            "#QuangNgai",
+            "#DoanhNghiep",
+            "#ThaoGoVuongMac",
+            "#DatDai",
+            "#Thue"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:34:14 GMT+7"
     },
@@ -963,7 +1477,13 @@
         "topic": "News",
         "location": "bản Táo, xã Trung Lý, tỉnh Thanh Hóa",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/don-bun-dat-truoc-cong-truong-th-trung-ly-1-1-17562093096111062753863-0-90-1101-1852-crop-17562098641271155307046.jpg",
-        "hashtag": "#SạtLởĐất #ThanhHóa #BãoSố5 #TrườngHọc #KhẩnCấp",
+        "hashtags": [
+            "#SạtLởĐất",
+            "#ThanhHóa",
+            "#BãoSố5",
+            "#TrườngHọc",
+            "#KhẩnCấp"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:41:53 GMT+7"
     },
@@ -974,7 +1494,13 @@
         "topic": "Sports",
         "location": "Sông Kiến Giang, Lệ Thủy, Quảng Trị",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/dua-thuyen-17562115432091465450798-115-0-1250-1816-crop-1756211712178881845009.jpg",
-        "hashtag": "#ĐuaThuyền #SôngKiếnGiang #QuảngTrị #TaiNạn #TửVong",
+        "hashtags": [
+            "#ĐuaThuyền",
+            "#SôngKiếnGiang",
+            "#QuảngTrị",
+            "#TaiNạn",
+            "#TửVong"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:45:51 GMT+7"
     },
@@ -985,7 +1511,13 @@
         "topic": "Business",
         "location": "TP HCM",
         "image": "https://vcdn1-kinhdoanh.vnecdn.net/2025/08/26/ad394a0c4f43c71d9e52-175622543-3963-8121-1756225486.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ow38hX8HBrR1me7z2JSS5A",
-        "hashtag": "#TPHCM #TăngTrưởngKinhTế #KếHoạchKinhDoanh #ĐầuTưCông #KinhTếViệtNam",
+        "hashtags": [
+            "#TPHCM",
+            "#TăngTrưởngKinhTế",
+            "#KếHoạchKinhDoanh",
+            "#ĐầuTưCông",
+            "#KinhTếViệtNam"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:17:48 +0700"
     },
@@ -996,7 +1528,13 @@
         "topic": "News",
         "location": "phường Tuy Hòa, tỉnh Đăk Lăk",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/27/ranne-1756228918-1756228936-17-9047-6448-1756229120.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YKjENS63d-bxKDRxtOCmLA",
-        "hashtag": "#TaiNạnGiaoThông #ĐăkLăk #Ôtô #XeMáy #TruyĐuổi",
+        "hashtags": [
+            "#TaiNạnGiaoThông",
+            "#ĐăkLăk",
+            "#Ôtô",
+            "#XeMáy",
+            "#TruyĐuổi"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 00:44:58 +0700"
     },
@@ -1007,7 +1545,13 @@
         "topic": "Health",
         "location": null,
         "image": "https://vcdn1-suckhoe.vnecdn.net/2025/08/26/538422489106169130277404725811-7157-4660-1756201983.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hy7GpzNH-HV6ShFdPy-rdQ",
-        "hashtag": "#SứcKhỏeXương #DấuHiệuBệnhXương #CảnhBáoSứcKhỏe #PhátHiệnSớm #TổnThươngXương",
+        "hashtags": [
+            "#SứcKhỏeXương",
+            "#DấuHiệuBệnhXương",
+            "#CảnhBáoSứcKhỏe",
+            "#PhátHiệnSớm",
+            "#TổnThươngXương"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 01:00:00 +0700"
     },
@@ -1018,7 +1562,13 @@
         "topic": "Life Style",
         "location": "Hà Nội, vùng cao, biên giới, hải đảo",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/2037160122720658778-17562100360891703935169-75-0-1354-2047-crop-17562112752891720709928.jpg",
-        "hashtag": "#trianthayco #chiasecungthayco #hoilhtnvn #thienlong #giaoduc",
+        "hashtags": [
+            "#trianthayco",
+            "#chiasecungthayco",
+            "#hoilhtnvn",
+            "#thienlong",
+            "#giaoduc"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:50:52 GMT+7"
     },
@@ -1029,7 +1579,13 @@
         "topic": "News",
         "location": "Phú Quốc, An Giang, Kiên Giang",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/z69474903086348d5f8d79e55a8ce5cb08d6742dc06656-17562113015661028747380-58-0-858-1280-crop-1756211345639162523930.jpg",
-        "hashtag": "#BãoSố5 #ThiệtHạiBão #PhúQuốc #AnGiang #NgưDânMấtTích",
+        "hashtags": [
+            "#BãoSố5",
+            "#ThiệtHạiBão",
+            "#PhúQuốc",
+            "#AnGiang",
+            "#NgưDânMấtTích"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:55:06 GMT+7"
     },
@@ -1040,7 +1596,13 @@
         "topic": "News",
         "location": "Phường Tân Tạo, Thành phố Hồ Chí Minh",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/ong-bui-minh-thanh-1756208313314219776436-150-90-1666-2515-crop-17562083525891266677422.jpg",
-        "hashtag": "#PhuongTanTao #UBNDTPHCM #BuiMinhThanh #ChinhQuyenDiaPhuong #KhaoSatHoatDong",
+        "hashtags": [
+            "#PhuongTanTao",
+            "#UBNDTPHCM",
+            "#BuiMinhThanh",
+            "#ChinhQuyenDiaPhuong",
+            "#KhaoSatHoatDong"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 19:58:24 GMT+7"
     },
@@ -1051,7 +1613,13 @@
         "topic": "Arts and Culture",
         "location": "Tây Ninh, Núi Bà Đen, Long An, Tân Ninh",
         "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/8/26/dscf3201-17562081737241830039583-0-0-1600-2560-crop-175620837268083859184.jpeg",
-        "hashtag": "#TâyNinh #QuốcKhánh2_9 #NúiBàĐen #HộiChợTriểnLãm #DuLịchViệtNam",
+        "hashtags": [
+            "#TâyNinh",
+            "#QuốcKhánh2_9",
+            "#NúiBàĐen",
+            "#HộiChợTriểnLãm",
+            "#DuLịchViệtNam"
+        ],
         "source": "tuoitre.vn",
         "publishedDate": "Tue, 26 Aug 2025 20:05:52 GMT+7"
     },
@@ -1062,7 +1630,13 @@
         "topic": "Health",
         "location": "Chicago",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/1600-1756172088-1756172183-7725-1756172206.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o8WsbugpmK4Q2d2Epd-8gA",
-        "hashtag": "#Fentanyl #Chicago #NguoiCaoTuoi #KhungHoangMaTuy #SucKhoeCongDong",
+        "hashtags": [
+            "#Fentanyl",
+            "#Chicago",
+            "#NguoiCaoTuoi",
+            "#KhungHoangMaTuy",
+            "#SucKhoeCongDong"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 02:00:00 +0700"
     },
@@ -1073,7 +1647,9 @@
         "topic": "News",
         "location": "Hà Nội",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/27/hanoingap-18-1756225534-7118-1-9109-3125-1756237635.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Blwxa6iFhBnYGA9MBM-Bkg",
-        "hashtag": "#HanoiNgap#LuLut#HaTangThoatNuoc#BienDoiKhiHau#ThoiSu",
+        "hashtags": [
+            "#HanoiNgap#LuLut#HaTangThoatNuoc#BienDoiKhiHau#ThoiSu"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 02:40:41 +0700"
     },
@@ -1084,7 +1660,13 @@
         "topic": "Business",
         "location": "New York, Mỹ",
         "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/26/thiet-ke-chua-co-ten-46-175619-5166-7029-1756191569.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LTfFYpu1BNSnOXYVotaVKA",
-        "hashtag": "#NewYork #ThanhPhoKhongNgu #Covid19TacDong #KinhDoanhNhaHang #LoiSongMoi",
+        "hashtags": [
+            "#NewYork",
+            "#ThanhPhoKhongNgu",
+            "#Covid19TacDong",
+            "#KinhDoanhNhaHang",
+            "#LoiSongMoi"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 03:00:00 +0700"
     },
@@ -1095,7 +1677,13 @@
         "topic": "Finance",
         "location": "International",
         "image": "https://vcdn1-kinhdoanh.vnecdn.net/2025/08/25/106819617-1609910269394-gettyi-8125-3428-1756105156.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CeL26WW8G2iIExhIl6kM4Q",
-        "hashtag": "#Bitcoin #TiềnSố #TàiChính #KinhTếSố #SởHữu",
+        "hashtags": [
+            "#Bitcoin",
+            "#TiềnSố",
+            "#TàiChính",
+            "#KinhTếSố",
+            "#SởHữu"
+        ],
         "source": "vnexpress.net",
         "publishedDate": "Wed, 27 Aug 2025 03:02:00 +0700"
     }
