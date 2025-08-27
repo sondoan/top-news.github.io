@@ -2,249 +2,204 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Whatnews</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Whatnews</title>
   <style>
     body {
-      font-family: Georgia, "Times New Roman", serif;
+      font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f5f5f5;
-      color: #333;
+      background: #fdfdfd;
+      color: #222;
     }
-
     header {
-      background-color: #2c3e50;
+      background: #1a1a1a;
       color: white;
-      padding: 15px 30px;
+      padding: 15px 20px;
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
-
     header h1 {
       margin: 0;
-      font-size: 1.8em;
+      font-size: 24px;
     }
-
-    .language-selector select {
-      padding: 6px;
-      border-radius: 4px;
+    .lang-select {
+      background: #333;
+      color: white;
       border: none;
-      background: #ecf0f1;
-      font-size: 0.9em;
+      padding: 6px 10px;
+      font-size: 14px;
+      cursor: pointer;
     }
-
     nav {
-      background-color: #34495e;
+      background: #eaeaea;
       padding: 10px 20px;
       display: flex;
       gap: 15px;
-      flex-wrap: wrap;
     }
-
     nav button {
-      background: none;
+      background: #ddd;
       border: none;
-      color: white;
-      font-size: 1em;
+      padding: 8px 15px;
       cursor: pointer;
-      padding: 6px 12px;
-      border-radius: 4px;
+      border-radius: 5px;
       transition: background 0.3s;
     }
-
-    nav button:hover, nav button.active {
-      background: #2ecc71;
+    nav button:hover {
+      background: #bbb;
     }
-
     main {
       padding: 20px;
-      max-width: 1200px;
-      margin: auto;
     }
-
-    .news-item {
-      display: flex;
-      align-items: flex-start;
+    .article {
       background: white;
-      margin-bottom: 15px;
+      border: 1px solid #ddd;
       padding: 15px;
+      margin-bottom: 15px;
       border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
       transition: transform 0.2s;
     }
-
-    .news-item:hover {
+    .article:hover {
       transform: scale(1.01);
     }
-
-    .news-item img {
-      width: 150px;
-      height: 100px;
-      object-fit: cover;
-      border-radius: 6px;
-      margin-right: 15px;
+    .article h2 {
+      margin: 0 0 10px;
+      font-size: 18px;
+      color: #222;
     }
-
-    .news-content {
-      flex: 1;
+    .article p {
+      margin: 5px 0;
+      color: #444;
     }
-
-    .news-title {
-      font-size: 1.2em;
-      font-weight: bold;
-      margin: 0 0 8px 0;
+    .hashtags {
+      margin-top: 8px;
+      color: #0073e6;
     }
-
-    .news-summary {
-      margin: 0 0 8px 0;
-      font-size: 0.95em;
-      color: #555;
+    .source {
+      margin-top: 8px;
+      font-size: 14px;
+      color: #777;
     }
-
-    .news-meta {
-      font-size: 0.85em;
-      color: #888;
-      margin-bottom: 6px;
-    }
-
-    .tags {
-      margin-top: 6px;
-    }
-
-    .tag {
-      display: inline-block;
-      background: #2ecc71;
-      color: white;
-      padding: 3px 8px;
-      border-radius: 4px;
-      font-size: 0.75em;
-      margin-right: 5px;
-    }
-
     #loadMore {
       display: block;
       margin: 20px auto;
       padding: 10px 20px;
-      font-size: 1em;
-      border: none;
-      border-radius: 6px;
-      background-color: #2c3e50;
+      background: #0073e6;
       color: white;
+      border: none;
+      border-radius: 5px;
       cursor: pointer;
-      transition: background 0.3s;
+      font-size: 16px;
     }
-
     #loadMore:hover {
-      background-color: #34495e;
+      background: #005bb5;
     }
-
     footer {
-      background-color: #2c3e50;
+      background: #1a1a1a;
       color: white;
       text-align: center;
       padding: 15px;
-      margin-top: 30px;
+      margin-top: 20px;
     }
   </style>
 </head>
 <body>
   <header>
     <h1>Whatnews</h1>
-    <div class="language-selector">
-      <select id="languageSelect">
-        <option value="en">English</option>
-        <option value="vi">Vietnamese</option>
-        <option value="ja">Japanese</option>
-      </select>
-    </div>
+    <select id="languageSelect" class="lang-select">
+      <option value="en">English</option>
+      <option value="vi">Tiếng Việt</option>
+      <option value="ja">日本語</option>
+    </select>
   </header>
 
-  <nav id="topicNav">
-    <!-- Topics will be dynamically added -->
-  </nav>
+  <nav id="topics"></nav>
 
   <main id="newsContainer"></main>
   <button id="loadMore">Load More</button>
 
   <footer>
-    &copy; 2025 Whatnews. All rights reserved.
+    <p>© 2025 Whatnews - All Rights Reserved</p>
   </footer>
 
   <script>
-    let allNews = [];
-    let currentTopic = 'All';
-    let displayedCount = 0;
-    const batchSize = 5;
+    const newsContainer = document.getElementById("newsContainer");
+    const topicsNav = document.getElementById("topics");
+    const loadMoreBtn = document.getElementById("loadMore");
+    const languageSelect = document.getElementById("languageSelect");
 
-    const newsContainer = document.getElementById('newsContainer');
-    const loadMoreBtn = document.getElementById('loadMore');
-    const topicNav = document.getElementById('topicNav');
-    const languageSelect = document.getElementById('languageSelect');
+    let articles = [];
+    let currentIndex = 0;
+    const pageSize = 5;
+    let currentTopic = "All";
 
-    function renderTopics(news) {
-      const topics = ['All', ...new Set(news.map(item => item.topic))];
-      topicNav.innerHTML = '';
-      topics.forEach(topic => {
-        const btn = document.createElement('button');
+    async function loadNews(language = "en") {
+      let file = "";
+      if (language === "en") file = "news_en.json";
+      else if (language === "vi") file = "news_vi.json";
+      else if (language === "ja") file = "news_ja.json";
+
+      try {
+        const response = await fetch(file);
+        if (!response.ok) throw new Error("File not found");
+        const data = await response.json();
+        articles = data.articles;
+        currentIndex = 0;
+        currentTopic = "All";
+        renderTopics();
+        renderArticles(true);
+      } catch (error) {
+        newsContainer.innerHTML = `<p style="color:red;">⚠️ Error loading news: ${error.message}</p>`;
+      }
+    }
+
+    function renderTopics() {
+      const uniqueTopics = ["All"];
+      articles.forEach(a => {
+        if (a.topic && !uniqueTopics.includes(a.topic)) uniqueTopics.push(a.topic);
+      });
+      topicsNav.innerHTML = "";
+      uniqueTopics.forEach(topic => {
+        const btn = document.createElement("button");
         btn.textContent = topic;
-        if (topic === currentTopic) btn.classList.add('active');
-        btn.addEventListener('click', () => {
+        btn.onclick = () => {
           currentTopic = topic;
-          displayedCount = 0;
-          renderNews();
-          renderTopics(news);
-        });
-        topicNav.appendChild(btn);
+          currentIndex = 0;
+          renderArticles(true);
+        };
+        topicsNav.appendChild(btn);
       });
     }
 
-    function renderNews() {
-      newsContainer.innerHTML = '';
-      let filtered = currentTopic === 'All' ? allNews : allNews.filter(n => n.topic === currentTopic);
-      filtered.slice(0, displayedCount + batchSize).forEach(item => {
-        const div = document.createElement('div');
-        div.className = 'news-item';
+    function renderArticles(reset = false) {
+      if (reset) newsContainer.innerHTML = "";
+      let filtered = articles;
+      if (currentTopic !== "All") {
+        filtered = articles.filter(a => a.topic === currentTopic);
+      }
+      const nextArticles = filtered.slice(currentIndex, currentIndex + pageSize);
+      nextArticles.forEach(article => {
+        const div = document.createElement("div");
+        div.className = "article";
         div.innerHTML = `
-<!-- 
-<img src="${item.image}" alt="News"> 
--->
-          <div class="news-content">
-            <div class="news-title">${item.title}</div>
-            <div class="news-summary">${item.summary}</div>
-            <div class="news-meta">Source: ${item.source} | Published: ${item.publishedDate}</div>
-            <div class="tags">
-              <span class="tag">${item.topic}</span>
-              <span class="tag">${item.location}</span>
-            </div>
-          </div>
+          <h2>${article.title}</h2>
+          <p>${article.summary}</p>
+          <p class="hashtags">${article.hashtags || ""}</p>
+          <p class="source">Source: ${article.source} | Published: ${article.publishedDate}</p>
         `;
         newsContainer.appendChild(div);
       });
-      displayedCount += batchSize;
-      loadMoreBtn.style.display = displayedCount < filtered.length ? 'block' : 'none';
+      currentIndex += pageSize;
+      loadMoreBtn.style.display = currentIndex < filtered.length ? "block" : "none";
     }
 
-    function loadNews(language) {
-      let file = language === 'vi' ? 'news_vi.json' : language === 'ja' ? 'news_ja.json' : 'news_en.json';
-      fetch(file)
-        .then(res => res.json())
-        .then(data => {
-          allNews = data;
-          currentTopic = 'All';
-          displayedCount = 0;
-          renderTopics(allNews);
-          renderNews();
-        });
-    }
+    loadMoreBtn.addEventListener("click", () => renderArticles());
+    languageSelect.addEventListener("change", e => loadNews(e.target.value));
 
-    loadMoreBtn.addEventListener('click', renderNews);
-    languageSelect.addEventListener('change', e => loadNews(e.target.value));
-
-    // Initial load English
-    loadNews('en');
+    // Initial load
+    loadNews("en");
   </script>
 </body>
 </html>
-
