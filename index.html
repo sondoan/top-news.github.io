@@ -72,6 +72,13 @@
       font-size: 14px;
       margin-top: 5px;
     }
+    .hashtags span {
+      cursor: pointer;
+      margin-right: 5px;
+    }
+    .hashtags span:hover {
+      text-decoration: underline;
+    }
     #load-more {
       display: block;
       margin: 20px auto;
@@ -84,6 +91,19 @@
     }
     #load-more:hover {
       background: #1abc9c;
+    }
+    #reset-button {
+      display: none;
+      margin: 10px auto;
+      padding: 8px 15px;
+      background: #e74c3c;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #reset-button:hover {
+      background: #c0392b;
     }
   </style>
 </head>
@@ -101,6 +121,7 @@
   </header>
 
   <div class="container" id="news-container"></div>
+  <button id="reset-button" onclick="resetFilter()">Reset</button>
   <button id="load-more" onclick="loadMore()">Load More</button>
 
   <script>
@@ -143,7 +164,10 @@
       const end = Math.min(currentIndex + itemsPerLoad, items.length);
       for (let i = currentIndex; i < end; i++) {
         const news = items[i];
-        const hashtags = news.hashtags ? news.hashtags.join(", ") : ""; // ✅ convert list to string
+        const hashtagsHtml = news.hashtags 
+          ? news.hashtags.map(tag => `<span onclick="filterByHashtag('${tag}')">#${tag}</span>`).join(" ") 
+          : "";
+
         const article = document.createElement("div");
         article.className = "news-article";
         article.innerHTML = `
@@ -152,7 +176,7 @@
             <p>${news.summary}</p>
             <p class="meta"><strong>Source:</strong> ${news.source} | <strong>Date:</strong> ${news.publishedDate}</p>
             <p class="meta"><strong>Topic:</strong> ${news.topic} | <strong>Location:</strong> ${news.location}</p>
-            <p class="hashtags">#${hashtags}</p>
+            <p class="hashtags">${hashtagsHtml}</p>
           </div>
         `;
         container.appendChild(article);
@@ -164,6 +188,21 @@
       filteredNews = topic === "All" ? allNews : allNews.filter(n => n.topic === topic);
       currentIndex = 0;
       renderNews(filteredNews);
+      document.getElementById("reset-button").style.display = "none"; // Hide reset on topic filter
+    }
+
+    function filterByHashtag(tag) {
+      filteredNews = allNews.filter(n => n.hashtags && n.hashtags.includes(tag));
+      currentIndex = 0;
+      renderNews(filteredNews);
+      document.getElementById("reset-button").style.display = "block"; // Show reset button
+    }
+
+    function resetFilter() {
+      filteredNews = allNews;
+      currentIndex = 0;
+      renderNews(filteredNews);
+      document.getElementById("reset-button").style.display = "none";
     }
 
     function loadMore() {
