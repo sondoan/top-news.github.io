@@ -59,6 +59,12 @@
       padding: 15px;
       margin-bottom: 15px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .news-article:hover {
+      transform: scale(1.01);
+      background: #fdfdfd;
     }
     .news-content h3 {
       margin: 0 0 10px;
@@ -170,6 +176,7 @@
 
         const article = document.createElement("div");
         article.className = "news-article";
+        article.onclick = () => window.open(news.link, "_blank"); // <-- open article link
         article.innerHTML = `
           <div class="news-content">
             <h3>${news.title}</h3>
