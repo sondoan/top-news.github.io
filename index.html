@@ -59,15 +59,17 @@
       padding: 15px;
       margin-bottom: 15px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      cursor: pointer;
-      transition: transform 0.2s;
-    }
-    .news-article:hover {
-      transform: scale(1.01);
-      background: #fdfdfd;
     }
     .news-content h3 {
       margin: 0 0 10px;
+    }
+    .news-content h3 a {
+      text-decoration: none;
+      color: #2c3e50;
+    }
+    .news-content h3 a:hover {
+      color: #1abc9c;
+      text-decoration: underline;
     }
     .meta {
       font-size: 14px;
@@ -176,10 +178,9 @@
 
         const article = document.createElement("div");
         article.className = "news-article";
-        article.onclick = () => window.open(news.link, "_blank"); // <-- open article link
         article.innerHTML = `
           <div class="news-content">
-            <h3>${news.title}</h3>
+            <h3><a href="${news.url}" target="_blank">${news.title}</a></h3>
             <p>${news.summary}</p>
             <p class="meta"><strong>Source:</strong> ${news.source} | <strong>Date:</strong> ${news.publishedDate}</p>
             <p class="meta"><strong>Topic:</strong> ${news.topic} | <strong>Location:</strong> ${news.location}</p>
