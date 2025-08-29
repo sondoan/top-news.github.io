@@ -1,5 +1,124 @@
 [
     {
+        "title": "再生医療中の女性 容体急変し死亡 クリニックに緊急命令",
+        "summary": "東京のクリニックで再生医療中に女性が死亡。厚労省は該当クリニックに緊急停止命令を出しました。患者死亡での緊急命令は初のケースで、原因を調査中です。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907651000.html",
+        "topic": "Health",
+        "location": "東京中央区と埼玉県坂戸市",
+        "image": null,
+        "hashtags": [
+            "#再生医療",
+            "#医療事故",
+            "#厚生労働省",
+            "#緊急命令",
+            "#東京クリニック"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Fri, 29 Aug 2025 21:18:48 +0900"
+    },
+    {
+        "title": "青森市 市内の5地区 702世帯1102人に避難指示",
+        "summary": "青森市は土砂災害の危険が高まり、浅虫地域の702世帯1102人に避難指示を発令。警戒レベル4相当。温泉施設「ゆ～さ浅虫」が避難所として開設された。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907811000.html",
+        "topic": "News",
+        "location": "Aomori City, Asamushi areas",
+        "image": null,
+        "hashtags": [
+            "#青森市",
+            "#避難指示",
+            "#土砂災害",
+            "#災害情報",
+            "#気象警報"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:58:58 +0900"
+    },
+    {
+        "title": "青森県津軽で線状降水帯発生 災害危険度高まる",
+        "summary": "青森県津軽で線状降水帯が発生し災害危険度が高まっています。気象庁は「顕著な大雨に関する情報」を発表し、土砂災害や洪水に厳重な警戒を呼びかけています。東北北部では引き続き大気の状態が不安定で、30日明け方にかけて非常に激しい雨が降る恐れがあります。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907831000.html",
+        "topic": "News",
+        "location": "青森県津軽",
+        "image": null,
+        "hashtags": [
+            "#線状降水帯",
+            "#青森県",
+            "#大雨",
+            "#土砂災害",
+            "#洪水"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 00:32:04 +0900"
+    },
+    {
+        "title": "スポーツ庁の次期長官 河合純一氏で調整 パラ競泳金メダリスト",
+        "summary": "スポーツ庁の次期長官にパラ競泳金メダリストの河合純一氏が調整中。室伏長官は9月末で退任し、河合氏は初のパラリンピアン長官となる見込み。河合氏は21個のメダルを獲得し、JPC委員長などを歴任。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907821000.html",
+        "topic": "Sports",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [
+            "#スポーツ庁",
+            "#河合純一",
+            "#パラ競泳",
+            "#パラリンピック",
+            "#長官人事"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Fri, 29 Aug 2025 23:34:35 +0900"
+    },
+    {
+        "title": "日本・インド首脳会談 安全保障や経済など協力強化を確認",
+        "summary": "日本とインドは首脳会談で、安全保障、経済、人的交流の協力強化を確認。半導体、AI、防衛、10兆円投資、新幹線導入など広範な分野で連携。両国は「特別戦略的グローバル・パートナーシップ」を深化させ、未来の成長を目指す。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907131000.html",
+        "topic": "Business",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [
+            "#日印首脳会談",
+            "#経済安全保障",
+            "#印日関係",
+            "#Shinkansen",
+            "#半導体協力"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Fri, 29 Aug 2025 20:55:05 +0900"
+    },
+    {
+        "title": "環境省 リチウムイオン電池の使い方や廃棄方法 啓発強化へ",
+        "summary": "環境省は、リチウムイオン電池による火災増加を受け、9月から12月を啓発強化期間とし、正しい使用・廃棄方法を周知すると発表。高温や衝撃による発熱・発火、不適切な廃棄が火災増加の原因となっている。浅尾環境大臣は、利用・廃棄時の注意を呼びかけた。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907071000.html",
+        "topic": "News",
+        "location": null,
+        "image": null,
+        "hashtags": [
+            "#リチウムイオン電池",
+            "#火災防止",
+            "#環境省",
+            "#廃棄方法",
+            "#安全対策"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Fri, 29 Aug 2025 23:10:47 +0900"
+    },
+    {
+        "title": "【プロ野球結果】ソフトバンクと日本ハム ゲーム差1変わらず",
+        "summary": "2025年8月29日のプロ野球試合結果が報じられました。パ・リーグ首位争いはソフトバンクと日本ハムが勝利し、ゲーム差1を維持。セ・リーグでは巨人、中日、広島が勝利を収めました。",
+        "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907751000.html",
+        "topic": "Sports",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [
+            "#プロ野球",
+            "#NPB",
+            "#試合結果",
+            "#ソフトバンク",
+            "#日本ハム"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Fri, 29 Aug 2025 23:27:45 +0900"
+    },
+    {
         "title": "“解任は不当” FRBクック理事がトランプ大統領を提訴",
         "summary": "FRBクック理事が、トランプ大統領の不当な解任通告に対し提訴。大統領は住宅ローン不正を理由とするが、クック理事は「正当な理由」を否定。FRB独立性に関わる裁判の行方に注目が集まっています。",
         "url": "http://www3.nhk.or.jp/news/html/20250829/k10014906671000.html",
@@ -103,12 +222,18 @@
     },
     {
         "title": "神戸女性殺害事件 “好みのタイプ あとをつけ勤務先を確認”",
-        "summary": null,
+        "summary": "神戸市で24歳女性が殺害された事件で、容疑者が「好みのタイプ」と一方的に狙い、勤務先を確認し待ち伏せ。勤務先から自宅へ帰宅途中の女性をマンションで襲撃。警察は容疑者が女性を一方的に狙った可能性を調査中。",
         "url": "http://www3.nhk.or.jp/news/html/20250829/k10014906601000.html",
-        "topic": null,
-        "location": null,
+        "topic": "News",
+        "location": "神戸市",
         "image": null,
-        "hashtags": [],
+        "hashtags": [
+            "#神戸殺害事件",
+            "#ストーカー殺人",
+            "#女性被害",
+            "#防犯",
+            "#社会ニュース"
+        ],
         "source": "www3.nhk.or.jp",
         "publishedDate": "Fri, 29 Aug 2025 06:00:53 +0900"
     },
@@ -1087,82 +1212,5 @@
         "hashtags": [],
         "source": "www3.nhk.or.jp",
         "publishedDate": "Wed, 20 Aug 2025 18:27:56 +0900"
-    },
-    {
-        "title": "【秋田 氾濫発生】東北の河川に詳しい専門家 分析と注意点は",
-        "summary": "秋田の河川氾濫は急峻な地形が原因で増水が早かった。東北でも同様に短時間で増水しやすく、早めの避難と夜間の移動回避が重要と専門家は指摘。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898581000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:29:47 +0900"
-    },
-    {
-        "title": "成田空港 ターミナル周辺で増加の違法駐車を取締り",
-        "summary": "成田空港で違法駐車の取り締まりを強化。外国人観光客増で混雑し、長期駐車や客引きが問題化。通報件数も急増し、対策を継続へ。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898731000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:35:33 +0900"
-    },
-    {
-        "title": "「メガソーラーが猛暑や大雨被害に影響？」根拠ない情報が拡散",
-        "summary": "メガソーラーが猛暑・豪雨の原因とするSNS情報が拡散。専門家は設置面積が小さく地域への影響は限定的と否定。情報源確認を促す。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898341000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:45:43 +0900"
-    },
-    {
-        "title": "ローマ字つづり方 約70年ぶり見直す答申 文化庁審議会まとめる",
-        "summary": "文化庁が約70年ぶりにローマ字のつづり方を改定。ヘボン式を基本とし「ち」は「chi」に、既存の「Tokyo」などは維持。今年度中に閣議告示され、小学校でも教えられます。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898491000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:51:50 +0900"
-    },
-    {
-        "title": "ミニストップ 消費期限の不適切表示「加工手順書」見直し検討",
-        "summary": "ミニストップが店内で調理した商品の消費期限を不適切に表示していたことが判明。期間延長ラベルの貼付や製造数時間後の表示が確認された。会社は「加工手順書」を見直し、再発防止策を検討中です。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898561000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:56:59 +0900"
-    },
-    {
-        "title": "兵庫県議 投稿サイト動画削除求めた裁判 削除認めず 東京地裁",
-        "summary": "兵庫県議が「デマ拡散」動画の削除を求めた裁判で、東京地裁は削除請求を棄却。動画内容が不明瞭で、議員への批判の範囲を逸脱しないと判断しました。議員は今後も毅然と対応するとコメントしています。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898701000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 19:06:47 +0900"
-    },
-    {
-        "title": "大川原化工機えん罪事件 警視庁と検察幹部 遺族に直接謝罪へ",
-        "summary": "大川原化工機冤罪事件で、勾留中に死亡した元顧問の遺族へ、警察と検察の幹部が直接謝罪へ。捜査の違法性が認められ、これまで謝罪を拒否していた遺族が受け入れを決めた。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898751000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 19:07:16 +0900"
     }
 ]
