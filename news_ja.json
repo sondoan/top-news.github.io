@@ -1,5 +1,252 @@
 [
     {
+        "title": "EU “ウクライナ軍兵士の訓練 ウクライナ国内での実施に支持”",
+        "summary": "EU国防相はウクライナ兵士の国内訓練を安全保障の一部として支持。この欧州主導の取り組みは、停戦後を見据える。全会一致が必要だが、ハンガリーの反対で調整には時間がかかるとの見方も。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907911000.html",
+        "topic": "News",
+        "location": "Copenhagen, Denmark and Ukraine",
+        "image": null,
+        "hashtags": [
+            "#EU",
+            "#ウクライナ",
+            "#軍事訓練",
+            "#安全保障",
+            "#国防相会議"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 08:15:36 +0900"
+    },
+    {
+        "title": "フランス ドイツ 核兵器による抑止力について戦略的対話開始へ",
+        "summary": "フランスとドイツが核抑止力に関する戦略対話を開始。ロシアの脅威を受け防衛協力強化に合意。欧州の安全保障をNATO内で強化する狙い。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907861000.html",
+        "topic": "News",
+        "location": "フランス、ドイツ、ヨーロッパ",
+        "image": null,
+        "hashtags": [
+            "#核抑止力",
+            "#フランス",
+            "#ドイツ",
+            "#防衛協力",
+            "#欧州安全保障"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 08:12:07 +0900"
+    },
+    {
+        "title": "神戸刺殺事件 浮かぶ特異な状況",
+        "summary": "神戸市で女性刺殺事件が発生し、逮捕された容疑者は「好みのタイプ」の女性を尾行しエレベーターで襲った。供述から特異な状況が判明。県警は事件の全容解明を急ぐ。",
+        "url": "https://news.yahoo.co.jp/pickup/6550774?source=rss",
+        "topic": "News",
+        "location": "神戸市中央区",
+        "image": null,
+        "hashtags": [
+            "#神戸刺殺事件",
+            "#女性刺殺",
+            "#特異な状況",
+            "#事件捜査",
+            "#兵庫県警"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:32:09 GMT"
+    },
+    {
+        "title": "米関税の大半が違法 連邦控訴裁",
+        "summary": "米連邦控訴裁はトランプ関税の大半を違法と判断した。政権は最高裁へ上訴できる。関税は10月14日まで維持される。",
+        "url": "https://news.yahoo.co.jp/pickup/6550778?source=rss",
+        "topic": "Business",
+        "location": "米首都ワシントン",
+        "image": null,
+        "hashtags": [
+            "#トランプ関税",
+            "#米連邦控訴裁",
+            "#違法判断",
+            "#米国政治",
+            "#貿易問題"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:53:06 GMT"
+    },
+    {
+        "title": "水原受刑者の賭博胴元 禁錮1年1日",
+        "summary": "水原一平受刑者の違法賭博胴元に禁錮1年1日の判決が下されました。捜査協力により大幅減軽され、最長18年の可能性から短縮。胴元は「大谷選手の名前に傷を付けた」と謝罪しました。",
+        "url": "https://news.yahoo.co.jp/pickup/6550773?source=rss",
+        "topic": "Sports",
+        "location": "サンタアナ 米カリフォルニア州",
+        "image": null,
+        "hashtags": [
+            "#水原一平",
+            "#違法賭博",
+            "#大谷翔平",
+            "#禁錮刑",
+            "#法廷"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:33:27 GMT"
+    },
+    {
+        "title": "ミサイル配備先決定 地域に不安も",
+        "summary": "防衛省は長射程ミサイルの配備先を本州、北海道、九州に決定。この初の配備は南西諸島ではないが、地域に不安と基地負担増の懸念をもたらしている。反撃能力強化が目的。",
+        "url": "https://news.yahoo.co.jp/pickup/6550776?source=rss",
+        "topic": "News",
+        "location": "本州、北海道、九州",
+        "image": null,
+        "hashtags": [
+            "#ミサイル配備",
+            "#防衛省",
+            "#日本安全保障",
+            "#地域不安",
+            "#長射程ミサイル"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:50:31 GMT"
+    },
+    {
+        "title": "石破首相とインドのモディ首相 半導体製造装置メーカー視察へ",
+        "summary": "岸田首相とモディ首相は会談で経済・人的交流強化、半導体協力の新枠組み「経済安全保障イニシアチブ」創設に合意。日本は対インド10兆円投資、50万人交流を目指す。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907641000.html",
+        "topic": "Business",
+        "location": "India and Japan",
+        "image": null,
+        "hashtags": [
+            "#日印関係#経済協力#半導体#経済安全保障#首脳会談"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 05:31:07 +0900"
+    },
+    {
+        "title": "通信技術「フェリカ」のぜい弱性 事業者「安全性に問題ない」",
+        "summary": "FeliCa ICチップにセキュリティ脆弱性が発覚。サービス提供各社は自社対策で安全性に問題なしと表明。開発元ソニーは状況確認と今後の対応を検討中。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907621000.html",
+        "topic": "Technology",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [
+            "#FeliCa",
+            "#セキュリティ脆弱性",
+            "#交通系ICカード",
+            "#電子マネー",
+            "#ソニー"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 05:23:43 +0900"
+    },
+    {
+        "title": "自民 臨時総裁選めぐり駆け引き活発に 野党側は批判強める",
+        "summary": "自民党内で臨時総裁選を巡る駆け引きが活発化し、一部議員は早期実施を求める。参院選敗北を受け、党内では総裁選実施の是非を議論、現職総理への批判も。野党は物価高対策が進まない現状を批判し、早期の混乱収拾を要求。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907631000.html",
+        "topic": "News",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [
+            "#自民党",
+            "#総裁選",
+            "#政治",
+            "#日本政治",
+            "#野党"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 05:19:45 +0900"
+    },
+    {
+        "title": "異例の酷暑恐れ 関東内陸部で40℃",
+        "summary": "この土日は関東や東海で40℃に迫る災害級の酷暑が予想される。8月末にも関わらず異例の猛暑で、9月初めも熱中症に厳重な警戒が必要。屋外活動は控え、暑さ対策を徹底すること。",
+        "url": "https://news.yahoo.co.jp/pickup/6550775?source=rss",
+        "topic": "News",
+        "location": "関東、東海地方",
+        "image": null,
+        "hashtags": [
+            "#酷暑",
+            "#熱中症警戒",
+            "#関東",
+            "#東海",
+            "#猛暑"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:34:28 GMT"
+    },
+    {
+        "title": "関東甲信の内陸部など 最高気温40度の予想 熱中症に厳重警戒を",
+        "summary": "関東甲信の内陸部などで最高気温40度予想の猛暑。30都府県に熱中症警戒アラートが発令中。厳重な警戒と対策の徹底を呼びかけ。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907691000.html",
+        "topic": "Health",
+        "location": "関東甲信、東日本、西日本、九州",
+        "image": null,
+        "hashtags": [
+            "#熱中症",
+            "#猛暑",
+            "#熱中症警戒アラート",
+            "#気象情報",
+            "#日本"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 05:51:09 +0900"
+    },
+    {
+        "title": "トランプ政権の相互関税など 米連邦控訴裁 差し止めの判断支持",
+        "summary": "米国連邦控訴裁判所はトランプ政権の関税措置差し止めを支持。関税は10月14日まで継続し、トランプ氏は上訴の意向を示した。彼は関税が有効で国益に資すると主張している。",
+        "url": "http://www3.nhk.or.jp/news/html/20250830/k10014907951000.html",
+        "topic": "Business",
+        "location": "米国連邦控訴裁判所",
+        "image": null,
+        "hashtags": [
+            "#トランプ関税",
+            "#米国連邦控訴裁判所",
+            "#国際貿易",
+            "#関税措置",
+            "#貿易政策"
+        ],
+        "source": "www3.nhk.or.jp",
+        "publishedDate": "Sat, 30 Aug 2025 08:07:41 +0900"
+    },
+    {
+        "title": "高橋海人 24時間TV出演見合わせ",
+        "summary": "キンプリ髙橋海人が体調不良のため「24時間テレビ」の生放送出演を見合わせると発表。チャリティーパートナーを務める予定だった。関連ライブにはトラジャ松田元太が出演。",
+        "url": "https://news.yahoo.co.jp/pickup/6550772?source=rss",
+        "topic": "Entertainment",
+        "location": "東京・両国国技館",
+        "image": null,
+        "hashtags": [
+            "#高橋海人#24時間テレビ#キンプリ#体調不良#エンタメ"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:18:50 GMT"
+    },
+    {
+        "title": "出勤偽装会社 中国の失業者に人気",
+        "summary": "中国で就職難の失業者に「出勤偽装会社」が人気。偽の社長室や給与明細で失業を隠し、周囲に知られないようにする。心を守るため“偽装オフィス”を選ぶ若者もいる。",
+        "url": "https://news.yahoo.co.jp/pickup/6550771?source=rss",
+        "topic": "Business",
+        "location": "中国",
+        "image": null,
+        "hashtags": [
+            "#出勤偽装会社",
+            "#中国の失業",
+            "#就職難",
+            "#景気停滞",
+            "#偽装オフィス"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 22:14:47 GMT"
+    },
+    {
+        "title": "変異株「ニンバス」が猛威 対策は",
+        "summary": "新型コロナ変異株「ニンバス」が猛威を振るい、感染者が10週連続で増加しています。症状は「カミソリを飲み込むような痛み」とされ、猛暑の感染対策は「湿度」と「換気」が重要です。",
+        "url": "https://news.yahoo.co.jp/pickup/6550763?source=rss",
+        "topic": "Health",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [
+            "#新型コロナ",
+            "#ニンバス",
+            "#変異株",
+            "#感染対策",
+            "#Nスタ"
+        ],
+        "source": "news.yahoo.co.jp",
+        "publishedDate": "Fri, 29 Aug 2025 14:32:00 GMT"
+    },
+    {
         "title": "再生医療中の女性 容体急変し死亡 クリニックに緊急命令",
         "summary": "東京のクリニックで再生医療中に女性が死亡。厚労省は該当クリニックに緊急停止命令を出しました。患者死亡での緊急命令は初のケースで、原因を調査中です。",
         "url": "http://www3.nhk.or.jp/news/html/20250829/k10014907651000.html",
@@ -1047,170 +1294,5 @@
         "hashtags": [],
         "source": "www3.nhk.or.jp",
         "publishedDate": "Wed, 20 Aug 2025 08:31:29 +0900"
-    },
-    {
-        "title": "秋田 仙北市の一部 185世帯に緊急安全確保 桧木内川が氾濫",
-        "summary": "秋田県仙北市で桧木内川が氾濫し、185世帯に警戒レベル5「緊急安全確保」が発出された。安全な場所での避難行動が呼びかけられている。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898321000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 09:39:02 +0900"
-    },
-    {
-        "title": "広島 土砂災害から11年 大きな被害あった安佐南区で追悼の催し",
-        "summary": "広島土砂災害から11年、犠牲者77人を追悼。被災地で慰霊が行われ、防災の教訓を次世代へ伝える誓いが語られた。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898331000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 12:19:06 +0900"
-    },
-    {
-        "title": "高校野球 日大三が決勝へ 県岐阜商に延長で競り勝つ【詳しく】",
-        "summary": "高校野球準決勝、日大三高が延長10回タイブレークで県岐阜商を4-2で破り、14年ぶりに決勝へ進出。投打に活躍の近藤投手が貢献した。",
-        "url": "http://www3.nhk.or.jp/news/html/20250821/k10014898391000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 11:31:53 +0900"
-    },
-    {
-        "title": "トランプ大統領 “住宅ローンで不正”FRBクック理事に辞任要求",
-        "summary": "トランプ氏がFRBクック理事に住宅ローン不正疑惑で辞任要求。利下げ圧力と見られ、クック氏は拒否。FRB独立性懸念から円高ドル安が進んだ。",
-        "url": "http://www3.nhk.or.jp/news/html/20250821/k10014899141000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 09:21:11 +0900"
-    },
-    {
-        "title": "国士舘大 元柔道部員4人 追送検や書類送検 麻薬含む液体所持か",
-        "summary": "国士舘大柔道部元部員2人が大麻所持で追送検され、他2人も書類送検。大学は柔道部を無期限活動停止に。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898541000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 14:31:43 +0900"
-    },
-    {
-        "title": "「週刊新潮」“差別的な内容”と抗議受けていたコラム連載終了",
-        "summary": "「週刊新潮」の高山正之氏コラム「変見自在」が、外国人ルーツを持つ人々への差別的表現で批判を受け、20日発売号で連載終了しました。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898641000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 16:43:36 +0900"
-    },
-    {
-        "title": "神戸 マンションで24歳の女性殺害 刺したとみられる男逃走",
-        "summary": "神戸のマンションで24歳女性が殺害され、刃物で刺したとみられる男が逃走。警察は殺人事件として捜査本部を設置し、男の行方を追っている。",
-        "url": "http://www3.nhk.or.jp/news/html/20250821/k10014899151000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 05:27:49 +0900"
-    },
-    {
-        "title": "国内屈指のラグビーの合宿地 菅平高原の新たな落雷対策",
-        "summary": "ラグビー合宿地の菅平高原で落雷対策が進む。日本ラグビー協会は、リアルタイム警報システムを導入し、選手の早期避難を促す。効果は出ているが、連絡速度や避難場所の確保が今後の課題。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014896721000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 17:50:00 +0900"
-    },
-    {
-        "title": "東北北部で記録的大雨 地盤緩んでいる地域も 土砂災害など警戒",
-        "summary": "東北北部で記録的な大雨となり、地盤緩みによる土砂災害や河川氾濫に厳重警戒が必要です。秋田・青森では家屋浸水や孤立も発生。九州も熱帯低気圧の影響で激しい雨に注意が必要です。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898181000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 06:58:14 +0900"
-    },
-    {
-        "title": "大阪 2人死亡の道頓堀火災 1階南側の室外機付近から出火か",
-        "summary": "大阪道頓堀の火災で消防隊員2名が死亡。6階建てビル1階の室外機付近から出火した可能性があり、警察と消防が詳しく調べています。",
-        "url": "http://www3.nhk.or.jp/news/html/20250821/k10014899281000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 11:17:49 +0900"
-    },
-    {
-        "title": "関東甲信・東海で危険な暑さ 局地的に40度に迫るおそれ",
-        "summary": "関東甲信・東海などで危険な暑さが続き、局地的に40℃に迫る恐れ。熱中症警戒アラートが発令されており、徹底した対策が必要です。",
-        "url": "http://www3.nhk.or.jp/news/html/20250821/k10014899161000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 06:37:54 +0900"
-    },
-    {
-        "title": "南海トラフ地震臨時情報で1週間の事前避難 対象住民は52万人余",
-        "summary": "南海トラフ巨大地震警戒発令時、津波に備えた1週間の事前避難が必要な住民が全国で52万人超に上ることが内閣府調査で判明。一部自治体は対象地域の指定を検討中です。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898691000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:11:15 +0900"
-    },
-    {
-        "title": "文科省 公立中学35人学級へ 教員定数増 概算要求盛り込む方針",
-        "summary": "文科省は来年度から公立中学で35人学級を段階導入するため、教師5800人増の費用を概算要求する方針を固めた。高校無償化は事項要求とした。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898661000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:13:08 +0900"
-    },
-    {
-        "title": "【台風情報】台風12号 あすにかけ九州上陸のおそれ 大雨対策を",
-        "summary": "台風12号が九州に接近、22日に上陸のおそれ。鹿児島県では線状降水帯発生で災害の危険度が高まるため、大雨対策を。",
-        "url": "http://www3.nhk.or.jp/news/html/20250821/k10014899221000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Thu, 21 Aug 2025 10:26:48 +0900"
-    },
-    {
-        "title": "秋田新幹線 秋田～大曲で運転見合わせ 大雨の影響",
-        "summary": "秋田新幹線は2025年8月20日、大雨の影響で秋田～大曲間の運転を見合わせ中。運転再開のめどは立っていません。",
-        "url": "http://www3.nhk.or.jp/news/html/20250820/k10014898791000.html",
-        "topic": null,
-        "location": null,
-        "image": null,
-        "hashtags": [],
-        "source": "www3.nhk.or.jp",
-        "publishedDate": "Wed, 20 Aug 2025 18:27:56 +0900"
     }
 ]
