@@ -26,7 +26,7 @@
       text-align: center;
       padding: 15px;
       margin-top: 30px;
-    }
+    }      
     header h1 {
       margin: 0;
       font-size: 24px;
@@ -66,17 +66,19 @@
       padding: 15px;
       margin-bottom: 15px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      cursor: pointer;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .news-article:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     }
     .news-content h3 {
       margin: 0 0 10px;
-    }
-    .news-content h3 a {
-      text-decoration: none;
       color: #2c3e50;
     }
-    .news-content h3 a:hover {
+    .news-content h3:hover {
       color: #1abc9c;
-      text-decoration: underline;
     }
     .meta {
       font-size: 14px;
@@ -140,7 +142,7 @@
   <button id="load-more" onclick="loadMore()">Load More</button>
   <footer>
     &copy; 2025 WhatNews. All rights reserved.
-  </footer>
+  </footer>    
 
   <script>
     let allNews = [];
@@ -183,20 +185,26 @@
       for (let i = currentIndex; i < end; i++) {
         const news = items[i];
         const hashtagsHtml = news.hashtags 
-          ? news.hashtags.map(tag => `<span onclick="filterByHashtag('${tag}')">#${tag}</span>`).join(" ") 
+          ? news.hashtags.map(tag => `<span onclick="event.stopPropagation(); filterByHashtag('${tag}')">#${tag}</span>`).join(" ") 
           : "";
 
         const article = document.createElement("div");
         article.className = "news-article";
         article.innerHTML = `
           <div class="news-content">
-            <h3><a href="${news.url}" target="_blank">${news.title}</a></h3>
+            <h3>${news.title}</h3>
             <p>${news.summary}</p>
             <p class="meta"><strong>Source:</strong> ${news.source} | <strong>Date:</strong> ${news.publishedDate}</p>
             <p class="meta"><strong>Topic:</strong> ${news.topic} | <strong>Location:</strong> ${news.location}</p>
             <p class="hashtags">${hashtagsHtml}</p>
           </div>
         `;
+
+        // Make the whole card clickable
+        article.onclick = () => {
+          window.open(news.url, "_blank");
+        };
+
         container.appendChild(article);
       }
       currentIndex = end;
