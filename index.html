@@ -29,7 +29,7 @@
     }      
     header h1 {
       margin: 0;
-      font-size: 24px;
+      font-size: 22px; /* slightly smaller */
     }
     nav {
       display: flex;
@@ -70,6 +70,7 @@
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       display: flex;
       gap: 15px;
+      align-items: stretch; /* make image stretch full height */
     }
     .news-article:hover {
       transform: translateY(-3px);
@@ -77,26 +78,32 @@
     }
     .news-image {
       flex-shrink: 0;
-      width: 120px;
-      height: 80px;
+      width: 150px;   /* wider so it looks balanced */
+      height: 100%;   /* take full card height */
       object-fit: cover;
       border-radius: 8px;
     }
     .news-content h3 {
-      margin: 0 0 10px;
+      margin: 0 0 8px;
       color: #2c3e50;
+      font-size: 16px; /* smaller */
     }
     .news-content h3:hover {
       color: #1abc9c;
     }
+    .news-content p {
+      font-size: 13px; /* smaller text */
+      line-height: 1.4em;
+      margin: 4px 0;
+    }
     .meta {
-      font-size: 14px;
+      font-size: 12px; /* smaller meta */
       color: #555;
     }
     .hashtags {
       color: #1abc9c;
-      font-size: 14px;
-      margin-top: 5px;
+      font-size: 12px;
+      margin-top: 4px;
     }
     .hashtags span {
       cursor: pointer;
