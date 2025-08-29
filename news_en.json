@@ -1,59 +1,1214 @@
 [
-  {
-    "title": "Global Markets Rally on Economic Optimism",
-    "summary": "Stocks surged worldwide as investors reacted to strong corporate earnings and signs of recovery in global trade.",
-    "link": "https://example.com/news/markets-rally",
-    "topic": "Business",
-    "location": "Global",
-    "hashtags": ["#Markets", "#Economy", "#Stocks"],
-    "image": "https://vcdn1-thethao.vnecdn.net/2025/08/25/qi8iqxxyfb89wbbxjpas-175612181-8539-5535-1756121835.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=crC7l67L9R-v5vp8E8iI5Q",
-    "source": "Reuters",
-    "publishedDate": "2025-08-25"
-  },
-  {
-    "title": "New Discovery in Quantum Computing",
-    "summary": "Scientists at MIT announced a breakthrough in quantum error correction, potentially speeding up practical quantum computers.",
-    "link": "https://example.com/news/quantum-discovery",
-    "topic": "Science",
-    "location": "USA",
-    "hashtags": ["#Quantum", "#Computing", "#MIT"],
-    "image": "https://vcdn1-giadinh.vnecdn.net/2025/08/25/Vin1-1756127958.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3MXYrgFkj_YS3VyhdVeu3g",
-    "source": "BBC News",
-    "publishedDate": "2025-08-25"
-  },
-  {
-    "title": "Wildfires Spread Across Southern Europe",
-    "summary": "Firefighters are battling massive wildfires in Spain and Italy as temperatures soar to record levels.",
-    "link": "https://example.com/news/wildfires-europe",
-    "topic": "News",
-    "location": "Europe",
-    "hashtags": ["#Wildfires", "#Climate", "#Heatwave"],
-    "image": "https://via.placeholder.com/120x80",
-    "source": "The Guardian",
-    "publishedDate": "2025-08-25"
-  },
-  {
-    "title": "Breakthrough in Cancer Research",
-    "summary": "A new experimental treatment has shown promising results in shrinking tumors during clinical trials.",
-    "link": "https://example.com/news/cancer-research",
-    "topic": "Science",
-    "location": "USA",
-    "hashtags": ["#Health", "#Research", "#Cancer"],
-    "image": "https://via.placeholder.com/120x80",
-    "source": "Nature Journal",
-    "publishedDate": "2025-08-25"
-
-  },
-  {
-    "title": "Tech Giants Face New Regulations in Europe",
-    "summary": "The EU passed new digital laws that could reshape how big tech companies operate in the region.",
-    "link": "https://example.com/news/eu-tech-laws",
-    "topic": "Business",
-    "location": "Europe",
-    "hashtags": ["#Tech", "#Regulation", "#EU"],
-    "image": "https://via.placeholder.com/120x80",
-    "source": "Financial Times",
-    "publishedDate": "2025-08-25"
-  }
+    {
+        "title": "VinFast launches limited edition armored limousine for top leaders",
+        "summary": "VinFast unveiled Lac Hong 900 LX, a limited-edition, bulletproof luxury limousine for political leaders, at a Vietnam exhibition.",
+        "url": "https://e.vnexpress.net/photo/companies/vinfast-launches-limited-edition-armored-limousine-for-top-leaders-4932725.html",
+        "topic": "Business",
+        "location": "Vietnam Exposition Center, Hanoi, Vietnam",
+        "image": "https://vcdn1-vnexpress.vnecdn.net/2025/08/28/z6952693893080-834c8d2ba53d8520bf407095a6b2454f-1756351284-1756351357.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3FLfZQ1e8P5bwWAHZiHRNg",
+        "hashtags": [
+            "#VinFast",
+            "#LacHong900LX",
+            "#ArmoredLimousine",
+            "#LuxuryCars",
+            "#VietnamInnovation"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 28 Aug 2025 17:31:35 +0700"
+    },
+    {
+        "title": "Chinese track and field beauty Wu Yanni secures wild card for world championships",
+        "summary": "Wu Yanni secured a 2025 World Athletics Championships spot in 100m hurdles, ending China's 10-year absence. Held in Tokyo.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/chinese-track-and-field-beauty-wu-yanni-secures-wild-card-for-world-championships-4932643.html",
+        "topic": "Sports",
+        "location": "Tokyo, Japan",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/28/504447418179857492978195604345-1355-4965-1756365920.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=L8ruf57HMjV8sWlhJpVQ1g",
+        "hashtags": [
+            "#WuYanni",
+            "#WorldAthleticsChampionships",
+            "#100mHurdles",
+            "#TrackAndField",
+            "#Tokyo2025"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 28 Aug 2025 14:50:40 +0700"
+    },
+    {
+        "title": "VIFA ASEAN 2025 gathers over 200 exhibitors",
+        "summary": "VIFA ASEAN 2025, an international furniture exhibition with over 200 exhibitors, runs Aug 26-29 in Ho Chi Minh City, fostering regional industry growth.",
+        "url": "https://e.vnexpress.net/news/business/vifa-asean-2025-gathers-over-200-exhibitors-4930697.html",
+        "topic": "Business",
+        "location": "Ho Chi Minh City",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/25/hdagvjhsd-1756093306-175609339-7348-5188-1756093454.png?w=900&h=0&q=100&dpr=1&fit=crop&s=A_hXE1glmnlSCAHfP7mgcw",
+        "hashtags": [
+            "#VIFAASEAN2025",
+            "#FurnitureExhibition",
+            "#HoChiMinhCity",
+            "#SoutheastAsianFurniture",
+            "#HomeDecor"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 25 Aug 2025 11:30:00 +0700"
+    },
+    {
+        "title": "US student visa arrivals continue to fall, with India and China seeing steepest drops",
+        "summary": "US international student visa arrivals decline, especially India/China, due to policies, risking billions for education and economy.",
+        "url": "https://e.vnexpress.net/news/news/education/us-student-visa-arrivals-continue-to-fall-with-india-and-china-seeing-steepest-drops-4930287.html",
+        "topic": "Business",
+        "location": "United States",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/22/students-1755850881-1755850895-2770-1755851002.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=-0tQcPqdmVSIlRZxDh36gQ",
+        "hashtags": [
+            "#StudentVisas",
+            "#USImmigration",
+            "#InternationalStudents",
+            "#HigherEducation",
+            "#EconomicImpact"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 23 Aug 2025 13:31:00 +0700"
+    },
+    {
+        "title": "Gold prices rise to new all-time high",
+        "summary": "Vietnam gold bar prices reached a record VND128 million per tael, significantly surpassing global rates. The State Bank of Vietnam ended the SJC gold bar monopoly. Global prices dipped slightly but remain supported by dovish Fed outlook.",
+        "url": "https://e.vnexpress.net/news/business/markets/gold-prices-rise-to-new-all-time-high-4932007.html",
+        "topic": "Finance",
+        "location": "Ho Chi Minh City, Vietnam",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/27/233a08041-1756263409-175626342-7059-1280-1756263487.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=CAekoFEebhpOwWTXry1c7g",
+        "hashtags": [
+            "#GoldPrices",
+            "#VietnamEconomy",
+            "#FinanceNews",
+            "#GoldMarket",
+            "#SJCMonopoly"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 27 Aug 2025 10:08:33 +0700"
+    },
+    {
+        "title": "Man jailed in Singapore after wife catches him at hospital where secret second wife gives birth",
+        "summary": "A 49-year-old Indian national was jailed in Singapore for bigamy and making false immigration declarations. His secret second family was discovered by his first wife at a hospital. He received a sentence of three months and three weeks.",
+        "url": "https://e.vnexpress.net/news/news/man-jailed-in-singapore-after-wife-catches-him-at-hospital-where-secret-second-wife-gives-birth-4932362.html",
+        "topic": "News",
+        "location": "Singapore",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/27/pexelsemmabauso11838283585798-9938-7307-1756309624.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=8Jw1TkM_DZeoRlE0_F7Vrg",
+        "hashtags": [
+            "#Bigamy",
+            "#SingaporeCrime",
+            "#SecretFamily",
+            "#ImmigrationFraud",
+            "#JailSentence"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 28 Aug 2025 07:51:59 +0700"
+    },
+    {
+        "title": "Pique and Shakira sell $3.5M villa in Spain after split",
+        "summary": "Pique and Shakira sold one Spanish villa for $3.5M after their split. Two other properties, valued at $12.86M, remain on the market.",
+        "url": "https://e.vnexpress.net/news/sports/football/pique-and-shakira-sell-3-5m-villa-in-spain-after-split-4928278.html",
+        "topic": "Entertainment",
+        "location": "Esplugues de Llobregat, Spain",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/18/pichq-1755490548-1755490570-2267-1755490901.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=f_jjohV-XAdm542cTPltgQ",
+        "hashtags": [
+            "#PiqueShakira",
+            "#CelebrityRealEstate",
+            "#Spain",
+            "#FootballStar",
+            "#PopStar"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 06:23:28 +0700"
+    },
+    {
+        "title": "Asian financial hub issues highest weather warning",
+        "summary": "Hong Kong issues 'black' rainstorm warning, closing schools, courts, and offices due to severe flooding and traffic. Stock exchange remains open.",
+        "url": "https://e.vnexpress.net/news/world/asian-financial-hub-issues-highest-weather-warning-4922690.html",
+        "topic": "News",
+        "location": "Hong Kong",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/05/tixung13-1754360446-1754360454-6524-1754360496.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QKUXNozwh-d-AyFnvW8fBA",
+        "hashtags": [
+            "#HongKong",
+            "#Rainstorm",
+            "#WeatherWarning",
+            "#Flooding",
+            "#CityClosures"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 05 Aug 2025 09:32:20 +0700"
+    },
+    {
+        "title": "Dollar extends record run against dong",
+        "summary": "US dollar hit record highs vs. Vietnamese dong, staying strong globally for a Fed speech on interest rates.",
+        "url": "https://e.vnexpress.net/news/business/markets/dollar-extends-record-run-against-dong-4930176.html",
+        "topic": "Finance",
+        "location": "Hanoi, Vietnam",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/22/WEBDSC1867GiangHuy171825351413-9166-8556-1755836386.png?w=900&h=0&q=100&dpr=1&fit=crop&s=-s8By0Di3CHgxRMDCjItAw",
+        "hashtags": [
+            "#USDVND#CurrencyExchange#FederalReserve#InterestRates#ForexMarket"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 22 Aug 2025 11:49:27 +0700"
+    },
+    {
+        "title": "Singapore, Malaysia Grab users stunned as fares exceed $1,100 due to system error",
+        "summary": "Grab fares surged over S$1,500 in Singapore & Malaysia due to a system error. The issue was fixed in 20 minutes, with refunds processed.",
+        "url": "https://e.vnexpress.net/news/tech/enterprises/singapore-malaysia-grab-users-stunned-as-fares-exceed-1-100-due-to-system-error-4929733.html",
+        "topic": "Technology",
+        "location": "Singapore and Malaysia",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/21/download1517536933047738175369-7434-8153-1755759701.png?w=900&h=0&q=100&dpr=1&fit=crop&s=GnemIhVWl25cNhuQLhVi0g",
+        "hashtags": [
+            "#Grab",
+            "#SystemError",
+            "#FareSurge",
+            "#Singapore",
+            "#Malaysia"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 22 Aug 2025 06:28:17 +0700"
+    },
+    {
+        "title": "16-year-old tech prodigy leaves Elon Musk’s SpaceX for quant trading giant Citadel Securities",
+        "summary": "16-year-old Kairan Quazi left SpaceX for Citadel Securities, drawn to quant finance's fast pace and new challenges.",
+        "url": "https://e.vnexpress.net/news/tech/personalities/16-year-old-tech-prodigy-leaves-elon-musk-s-spacex-for-quant-trading-giant-citadel-securities-4930146.html",
+        "topic": "Finance",
+        "location": "Manhattan, New York City",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/22/snapinstato3640487389781111001-8270-9182-1755834320.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=dGMEznyZugDdY0gfM7StmA",
+        "hashtags": [
+            "#KairanQuazi",
+            "#SpaceX",
+            "#CitadelSecurities",
+            "#QuantTrading",
+            "#TechProdigy"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 22 Aug 2025 11:02:04 +0700"
+    },
+    {
+        "title": "2 tourists from China, India detained at Kuala Lumpur airport for illegal entry attempt",
+        "summary": "• Two men detained at KL Airport for illegal entry. • Fake stamps found. • Malaysia denies many non-compliant.",
+        "url": "https://e.vnexpress.net/news/travel/visa/2-tourists-from-china-india-detained-at-kuala-lumpur-airport-for-illegal-entry-attempt-4928797.html",
+        "topic": "News",
+        "location": "Kuala Lumpur International Airport, Malaysia",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/19/tixung1-1755586291-2710-1755586295.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=UOpOKknu43a2Mcc_EdUqMQ",
+        "hashtags": [
+            "#KualaLumpurAirport",
+            "#IllegalEntry",
+            "#MalaysiaImmigration",
+            "#BorderControl",
+            "#TravelAdvisory"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 20 Aug 2025 06:42:45 +0700"
+    },
+    {
+        "title": "Dollar slides against dong",
+        "summary": "US dollar slid against Vietnamese dong and global currencies after Fed Chair Powell hinted at interest rate cuts, losing recent gains.",
+        "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-4931193.html",
+        "topic": "Finance",
+        "location": "Vietnam, global currency markets",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/25/AmoneychangercountsUSdollarban-6634-1568-1756095544.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=8LHUSBck3yj4Nt23eItq4A",
+        "hashtags": [
+            "#USDDong",
+            "#CurrencyExchange",
+            "#FederalReserve",
+            "#InterestRates",
+            "#VietnamEconomy"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 25 Aug 2025 11:57:14 +0700"
+    },
+    {
+        "title": "Thailand takraw players ask police to reclaim $291,000 stolen from Asian Games medal bonus",
+        "summary": "Thai sepak takraw players claim $291,000 in Asian Games medal bonuses were stolen. A police complaint seeks their rightful earnings.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/thailand-takraw-players-ask-police-to-reclaim-291-000-stolen-from-asian-games-medal-bonus-4930207.html",
+        "topic": "Sports",
+        "location": "Thailand, Pathum Thani Province",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/22/polco-1755840506-1755840524-6828-1755840675.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=AK_1eNogVUshZd8iIuUInA",
+        "hashtags": [
+            "#SepakTakraw",
+            "#AsianGames",
+            "#AthleteRights",
+            "#ThailandSports",
+            "#StolenBonuses"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 22 Aug 2025 12:57:26 +0700"
+    },
+    {
+        "title": "Honda rare naked bike priced at $21,000 in Vietnam",
+        "summary": "Limited Honda CB1300SF Final Edition motorcycles ($21,000) are now in Vietnam, ending production due to new rules.",
+        "url": "https://e.vnexpress.net/news/business/companies/honda-rare-naked-bike-priced-at-21-000-in-vietnam-4932232.html",
+        "topic": "Technology",
+        "location": "Vietnam",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/27/honda-cb1300sf-sp-final-editio-3203-7819-1756284183.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=nzAEkc-nKjSSh17iT0-2Aw",
+        "hashtags": [
+            "#HondaCB1300SF",
+            "#Motorcycles",
+            "#Vietnam",
+            "#LimitedEdition",
+            "#BikeSales"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 28 Aug 2025 09:48:00 +0700"
+    },
+    {
+        "title": "Singapore ranked 6th least complex for business in Asia Pacific, behind Vietnam and Thailand",
+        "summary": "Singapore ranks 6th least complex for Asia Pacific business. Infrastructure helps, but stricter rules and hiring policies pose hurdles.",
+        "url": "https://e.vnexpress.net/news/business/economy/singapore-ranked-6th-least-complex-for-business-in-asia-pacific-behind-vietnam-and-thailand-4931244.html",
+        "topic": "Business",
+        "location": "Singapore, Vietnam, Thailand, Asia Pacific",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/25/117336126109243173361312517381-8282-4709-1756105592.png?w=900&h=0&q=100&dpr=1&fit=crop&s=ejypKUrL2_A4zUPZuPYUVA",
+        "hashtags": [
+            "#SingaporeBusiness",
+            "#BusinessComplexity",
+            "#AsiaPacific",
+            "#GlobalBusinessIndex",
+            "#RegulatoryHurdles"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 25 Aug 2025 14:34:47 +0700"
+    },
+    {
+        "title": "US suspends chikungunya vaccine Ixchiq over 'serious' side effects: Valneva",
+        "summary": "US suspended Ixchiq chikungunya vaccine over serious side effects, notably in older patients. Its maker remains committed amid escalating global threats.",
+        "url": "https://e.vnexpress.net/news/world/us-suspends-chikungunya-vaccine-ixchiq-over-serious-side-effects-valneva-4931521.html",
+        "topic": "Health",
+        "location": "United States",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/26/00037g83kd-1756174110-17561741-2927-5906-1756174167.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Elg_unqkBueSd3HMjFOe4g",
+        "hashtags": [
+            "#ChikungunyaVaccine",
+            "#VaccineSafety",
+            "#IxchiqSuspension",
+            "#PublicHealth",
+            "#Valneva"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 26 Aug 2025 09:16:15 +0700"
+    },
+    {
+        "title": "Vietnam only Asian team eliminated from Volleyball Women's World Championship group stage",
+        "summary": "Vietnam exited their debut 2025 Women's Volleyball World Championship early. Held in Thailand.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/vietnam-only-asian-team-eliminated-from-volleyball-women-s-world-championship-group-stage-4931987.html",
+        "topic": "Sports",
+        "location": "Thailand",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/27/thanhthue-1756260682-175626069-5647-9233-1756260792.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=SAv1ZLinbcMsw0AaIEHbMQ",
+        "hashtags": [
+            "#VolleyballWorldChampionship",
+            "#VietnamVolleyball",
+            "#SportsNews",
+            "#Thailand",
+            "#DebutTournament"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 27 Aug 2025 09:34:03 +0700"
+    },
+    {
+        "title": "Singapore ban on cross-border ride-hailing to Malaysia wins analyst support",
+        "summary": "Analysts back Singapore's cross-border ride-hailing ban to Malaysia, citing taxi alternatives and the need to protect its local sector.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/singapore-ban-on-cross-border-ride-hailing-to-malaysia-wins-analyst-support-4930311.html",
+        "topic": "Business",
+        "location": "Singapore and Malaysia",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/22/download20250822t152940829-175-1210-1497-1755851525.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=PpyPhOci2y7MeRDWNKWaDg",
+        "hashtags": [
+            "#Singapore#Malaysia#RideHailing#TaxiPolicy#TransportRegulation"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 22 Aug 2025 15:39:53 +0700"
+    },
+    {
+        "title": "‘Most beautiful Chinese idol in 4 millennia’ Ju Jingyi stuns in Vietnamese designer’s dress",
+        "summary": "Actress Ju Jingyi wore a US$850 Vietnamese designer dress. Her elegant look gained millions of views and trended online.",
+        "url": "https://e.vnexpress.net/news/life/vogue/most-beautiful-chinese-idol-in-4-millennia-ju-jingyi-stuns-in-vietnamese-designer-s-dress-4932738.html",
+        "topic": "Entertainment",
+        "location": "China and Vietnam",
+        "image": "https://vcdn1-english.vnecdn.net/2025/08/28/0040jbadgy1i4slx107f3j62402tpe-4570-7415-1756374334.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0ynnadp1gka7vhbStxZpSg",
+        "hashtags": [
+            "#JuJingyi",
+            "#VietnameseFashion",
+            "#TraLinhDesign",
+            "#CelebrityStyle",
+            "#FashionTrends"
+        ],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 28 Aug 2025 17:33:56 +0700"
+    },
+    {
+        "title": "Bangkok named Asia's most visited city for 2025",
+        "summary": "Bangkok is Asia's most visited city for 2025, praised for its culture, food, and safety. Thailand actively promotes tourism with campaigns.",
+        "url": "https://e.vnexpress.net/news/travel/places/bangkok-named-asia-s-most-visited-city-for-2025-4925709.html",
+        "topic": "Business",
+        "location": "Bangkok, Thailand",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 08:00:15 +0700"
+    },
+    {
+        "title": "Southeast Asia's second largest economy vows better safety after Malaysian pair torched",
+        "summary": "Thailand boosts tourist safety in Bangkok after two Malaysians were set on fire. The incident impacts the country's tourism image.",
+        "url": "https://e.vnexpress.net/news/travel/southeast-asia-s-second-largest-economy-vows-better-safety-after-malaysian-pair-torched-4926195.html",
+        "topic": "News",
+        "location": "Bangkok, Thailand",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 09:16:06 +0700"
+    },
+    {
+        "title": "Chinese track star Wu Yanni not satisfied after defending national 100m hurdles title",
+        "summary": "Chinese track star Wu Yanni won the national 100m hurdles title but was dissatisfied with her 13.15-second performance. She vows to improve and is eligible for the Tokyo World Athletics Championships.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/chinese-track-star-wu-yanni-not-satisfied-after-defending-national-100m-hurdles-title-4923772.html",
+        "topic": "Sports",
+        "location": "China and Tokyo",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 07 Aug 2025 10:34:09 +0700"
+    },
+    {
+        "title": "Which Southeast Asian country named world's second cheapest destination?",
+        "summary": "Indonesia is the 2nd cheapest travel destination for US tourists, Thailand the cheapest, and Iceland the most expensive per a study.",
+        "url": "https://e.vnexpress.net/news/travel/places/which-southeast-asian-country-named-world-s-second-cheapest-destination-4925772.html",
+        "topic": "Life Style",
+        "location": "Indonesia, Thailand, Iceland, Australia, Mexico",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 12:53:48 +0700"
+    },
+    {
+        "title": "World's 'second most beautiful island' among most searched destinations for National Day holiday",
+        "summary": "Phu Quoc, Vietnam's \"second most beautiful island,\" is a top National Day holiday destination. It saw a 31.8% visitor increase and 93% revenue growth.",
+        "url": "https://e.vnexpress.net/news/travel/places/world-s-second-most-beautiful-island-among-most-searched-destinations-for-national-day-holiday-4926324.html",
+        "topic": "Life Style",
+        "location": "Phu Quoc, Hanoi, Da Nang, Da Lat, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 15:03:40 +0700"
+    },
+    {
+        "title": "Pfizer's strategy to support Vietnam's national healthcare transformation",
+        "summary": "Pfizer aids Vietnam's healthcare transformation, focusing on innovative vaccines, treatments, preventive care, and expanded access.",
+        "url": "https://e.vnexpress.net/news/news/pfizer-s-strategy-to-support-vietnam-s-national-healthcare-transformation-4928454.html",
+        "topic": "Health",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 07:00:00 +0700"
+    },
+    {
+        "title": "Investments that help basketball legend Magic Johnson become billionaire",
+        "summary": "Magic Johnson, an NBA legend, built a billion-dollar empire through strategic investments in diverse sectors, far beyond his basketball earnings.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/investments-that-help-basketball-legend-magic-johnson-become-billionaire-4919531.html",
+        "topic": "Business",
+        "location": "Los Angeles, New York, Washington",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 07 Aug 2025 19:00:00 +0700"
+    },
+    {
+        "title": "Neighbor installs air conditioner blasting heat into my bedroom in privacy dispute",
+        "summary": "A homeowner faces a dispute after a neighbor installed an AC unit blowing hot air into their bedroom over a window. The neighbor insists the window invades privacy, despite legal compliance. This unresolved conflict causes stress, leading the homeowner to consider selling.",
+        "url": "https://e.vnexpress.net/news/tech/personalities/neighbor-installs-air-conditioner-blasting-heat-into-my-bedroom-in-privacy-dispute-4925507.html",
+        "topic": "Life Style",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 11 Aug 2025 15:55:46 +0700"
+    },
+    {
+        "title": "Asia's 'most loved country' receives nearly 1.8 million Chinese in 5 months",
+        "summary": "Malaysia attracted 1.8M Chinese tourists due to an extended visa-free policy. It targets 7M visitors next year using social media.",
+        "url": "https://e.vnexpress.net/news/travel/asia-s-most-loved-country-receives-nearly-1-8-million-chinese-in-5-months-4925744.html",
+        "topic": "Business",
+        "location": "Malaysia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 14 Aug 2025 06:04:57 +0700"
+    },
+    {
+        "title": "Can Vietnam tourism catch up with Thailand's after sweeping visa reforms?",
+        "summary": "Vietnam's visa reforms aim for 25-30M tourists by 2026, nearing Thailand. Infrastructure, service, and marketing are key for success.",
+        "url": "https://e.vnexpress.net/news/travel/visa/can-vietnam-tourism-catch-up-with-thailand-s-after-sweeping-visa-reforms-4926260.html",
+        "topic": "Business",
+        "location": "Vietnam, Thailand, Malaysia, Singapore",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 14 Aug 2025 06:05:16 +0700"
+    },
+    {
+        "title": "All 34 Vietnamese cities, provinces to stage fireworks for National Day",
+        "summary": "Vietnam's National Day on Sept 2 will feature celebrations in 34 cities, including fireworks. A military parade will mark the 80th August Revolution anniversary. Events aim to inspire the public.",
+        "url": "https://e.vnexpress.net/news/news/all-34-vietnamese-cities-provinces-to-stage-fireworks-for-national-day-4928460.html",
+        "topic": "News",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 05:56:41 +0700"
+    },
+    {
+        "title": "PSG dominate list of men's Ballon D'Or nominees",
+        "summary": "PSG dominates 2025 Ballon d'Or nominees, excluding past winners like Rodri, Messi, Ronaldo. Winner announced Sep 22.",
+        "url": "https://e.vnexpress.net/news/sports/football/psg-dominate-list-of-men-s-ballon-d-or-nominees-4924509.html",
+        "topic": "Sports",
+        "location": null,
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 08 Aug 2025 15:01:51 +0700"
+    },
+    {
+        "title": "World’s fourth richest man Jeff Bezos seeks $190,000 legal fees from wife Lauren Sanchez’s brother in ongoing court battle",
+        "summary": "Jeff Bezos and Lauren Sanchez seek legal fees from her brother in a defamation suit, following their controversial Venice wedding.",
+        "url": "https://e.vnexpress.net/news/tech/personalities/world-s-fourth-richest-man-jeff-bezos-seeks-190-000-legal-fees-from-wife-lauren-sanchez-s-brother-in-ongoing-court-battle-4925502.html",
+        "topic": "Life Style",
+        "location": "California and Venice, Italy",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 11 Aug 2025 16:08:47 +0700"
+    },
+    {
+        "title": "Foreign national arrested in HCMC over fake BTS traffic fine scam",
+        "summary": "HCMC police arrested a foreigner for a fake BTS scam, sending false traffic fines to steal data. Public warned about phishing links.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/foreign-national-arrested-in-hcmc-over-fake-bts-traffic-fine-scam-4925441.html",
+        "topic": "Science and Technology",
+        "location": "Ho Chi Minh City",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 11 Aug 2025 16:09:21 +0700"
+    },
+    {
+        "title": "Indonesia's Pink Beach named world's most beautiful by travel experts",
+        "summary": "Indonesia's Pink Beach on Komodo Island was named the world's most beautiful. It features rosé-hued sands and rich marine life, perfect for snorkeling. May-October is the best time to visit.",
+        "url": "https://e.vnexpress.net/news/travel/places/indonesia-s-pink-beach-named-world-s-most-beautiful-by-travel-experts-4926445.html",
+        "topic": "Life Style",
+        "location": "Pink Beach on Komodo Island, Indonesia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 14 Aug 2025 09:07:46 +0700"
+    },
+    {
+        "title": "Airfares surge during National Day holidays",
+        "summary": "Airfares for Vietnam's National Day holidays surged. Hanoi hotels are nearly full for the military parade, impacting travel costs nationwide.",
+        "url": "https://e.vnexpress.net/news/travel/airfares-surge-during-national-day-holidays-4926724.html",
+        "topic": "Business",
+        "location": "Hanoi, HCMC, Da Nang, Phu Quoc Island, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 14 Aug 2025 10:48:09 +0700"
+    },
+    {
+        "title": "80 years since the August Revolution: Landmark sites that shaped Vietnam's path to independence",
+        "summary": "Key sites in Hanoi, Hue, and Ho Chi Minh City mark Vietnam's 1945 August Revolution, crucial for independence.",
+        "url": "https://e.vnexpress.net/photo/news/80-years-since-the-august-revolution-landmark-sites-that-shaped-vietnams-path-to-independence-4926435.html",
+        "topic": "News",
+        "location": "Hanoi, Hue, and Ho Chi Minh City",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 05:58:41 +0700"
+    },
+    {
+        "title": "ChatGPT defeats Grok 4 to win chess tournament for AI",
+        "summary": "ChatGPT's o3 model won the first AI chess tournament, defeating Grok 4. The tournament was organized by Google with 8 AIs competing.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/chatgpt-defeats-grok-4-to-win-chess-tournament-for-ai-4924554.html",
+        "topic": "Technology",
+        "location": "Online, involving American AI companies",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 09 Aug 2025 06:04:06 +0700"
+    },
+    {
+        "title": "Son Heung-min confused by request to help US win World Cup",
+        "summary": "Son Heung-min joins LAFC. A council member confused him by asking to help the U.S. win the World Cup. This viral gaffe caused a stir.",
+        "url": "https://e.vnexpress.net/news/sports/football/son-heung-min-confused-by-request-to-help-us-win-world-cup-4924743.html",
+        "topic": "Sports",
+        "location": "Los Angeles, California, United States",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 09 Aug 2025 09:53:21 +0700"
+    },
+    {
+        "title": "Vietnamese engineers win first prize at Global AI Challenge",
+        "summary": "Vietnamese engineers won gold at a global AI challenge in Hong Kong for an energy-saving model. This innovation optimizes cooling demand for buildings.",
+        "url": "https://e.vnexpress.net/news/tech/personalities/vietnamese-engineers-win-first-prize-at-global-ai-challenge-4925840.html",
+        "topic": "Technology",
+        "location": "Hong Kong, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 12:05:07 +0700"
+    },
+    {
+        "title": "All-you-can-eat Japanese buffet to close in Singapore after 9 years",
+        "summary": "Japanese buffet Shaburi & Kintan closes Singapore outlet. Rising costs and reduced spending cause F&B closures.",
+        "url": "https://e.vnexpress.net/news/travel/food-recipes/all-you-can-eat-japanese-buffet-to-close-in-singapore-after-9-years-4926767.html",
+        "topic": "Business",
+        "location": "Singapore",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 14 Aug 2025 10:56:57 +0700"
+    },
+    {
+        "title": "Relaxed visa policies, increased flight connectivity benefit hotel industry",
+        "summary": "Vietnam's hospitality thrives due to visa relaxations, more flights, and infrastructure. Occupancy and revenue per room show significant increases.",
+        "url": "https://e.vnexpress.net/news/travel/relaxed-visa-policies-increased-flight-connectivity-benefit-hotel-industry-4917258.html",
+        "topic": "Business",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 14 Aug 2025 17:00:00 +0700"
+    },
+    {
+        "title": "Luxury hotels in world's 2nd largest economy struggle to survive amid tightened travel spending",
+        "summary": "Chinese luxury hotels face revenue drops from reduced spending. They resort to selling street food to survive amid China's deflationary risks.",
+        "url": "https://e.vnexpress.net/news/travel/luxury-hotels-in-world-s-2nd-largest-economy-struggle-to-survive-amid-tightened-travel-spending-4926780.html",
+        "topic": "Business",
+        "location": "Beijing, China",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 15 Aug 2025 08:00:00 +0700"
+    },
+    {
+        "title": "Watchmaker Swatch apologizes for 'slanted eye' ad after online backlash in China",
+        "summary": "Swatch apologized for a racist \"slanted eye\" ad in China, removing it. It caused backlash, impacting sales.",
+        "url": "https://e.vnexpress.net/news/news/watchmaker-swatch-apologizes-for-slanted-eye-ad-after-online-backlash-in-china-4928318.html",
+        "topic": "Business",
+        "location": "China",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 06:21:56 +0700"
+    },
+    {
+        "title": "Bangkok named best city for Gen Z",
+        "summary": "Bangkok ranks as the top city for Gen Z globally. Its appeal stems from affordability, community, and nightlife. Melbourne, Cape Town, NYC, and Copenhagen also followed.",
+        "url": "https://e.vnexpress.net/news/news/bangkok-named-best-city-for-gen-z-4927135.html",
+        "topic": "Life Style",
+        "location": "Bangkok, Melbourne, Cape Town, New York City, Copenhagen",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 06:22:17 +0700"
+    },
+    {
+        "title": "Court to court: Why Vietnam tennis players are switching to pickleball",
+        "summary": "Vietnamese tennis players increasingly switch to pickleball for financial gain, impacting the national team. Federation boosts youth support.",
+        "url": "https://e.vnexpress.net/news/sports/tennis/court-to-court-why-vietnam-tennis-players-are-switching-to-pickleball-4924684.html",
+        "topic": "Sports",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 09 Aug 2025 20:00:00 +0700"
+    },
+    {
+        "title": "Two Japanese fighters on same card die from brain injuries",
+        "summary": "Two Japanese boxers died from brain injuries after separate fights on the same card in Tokyo. Both underwent operations for subdural haematoma, highlighting the sport's risks.",
+        "url": "https://e.vnexpress.net/news/sports/boxing/two-japanese-fighters-on-same-card-die-from-brain-injuries-4925010.html",
+        "topic": "Sports",
+        "location": "Korakuen Hall in Tokyo",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sun, 10 Aug 2025 09:42:25 +0700"
+    },
+    {
+        "title": "EV market attractive to both domestic, foreign manufacturers",
+        "summary": "Vietnam's EV market booms, drawing domestic and foreign investment. Companies expand production. Predicted $6.7B market by 2030.",
+        "url": "https://e.vnexpress.net/news/tech/enterprises/ev-market-attractive-to-both-domestic-foreign-manufacturers-4925849.html",
+        "topic": "Business",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 12:08:20 +0700"
+    },
+    {
+        "title": "British tourists say Malaysia's MRT is cleaner, cheaper and cooler than London Underground",
+        "summary": "Tourists praise Malaysia's MRT: cleaner, cooler, cheaper, safer than London's Underground. UK could learn from its modern system.",
+        "url": "https://e.vnexpress.net/news/travel/british-tourists-say-malaysia-s-mrt-is-cleaner-cheaper-and-cooler-than-london-underground-4926885.html",
+        "topic": "Technology",
+        "location": "Kuala Lumpur, Malaysia, London, UK",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 15 Aug 2025 09:00:00 +0700"
+    },
+    {
+        "title": "Tropical depression hits northern Vietnam, bringing heavy rain and strong winds",
+        "summary": "Tropical depression hit northern Vietnam, causing heavy rain, strong winds, and landslide risks in northern provinces.",
+        "url": "https://e.vnexpress.net/news/news/environment/tropical-depression-hits-northern-vietnam-bringing-heavy-rain-and-strong-winds-4928619.html",
+        "topic": "News",
+        "location": "Northern Vietnam, Quang Ninh, Hai Phong",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 09:13:21 +0700"
+    },
+    {
+        "title": "Vietnam women's volleyball team beat Thailand for first time in history after 40 losses",
+        "summary": "• Vietnam's women's volleyball team secured a historic 3-2 victory against Thailand. • They overcame a two-set deficit to win the SEA V-League stage. • This win ended a 40-match losing streak against their rivals.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/vietnam-women-s-volleyball-team-beat-thailand-for-first-time-in-history-after-40-losses-4925192.html",
+        "topic": "Sports",
+        "location": "Ninh Binh, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 11 Aug 2025 08:01:57 +0700"
+    },
+    {
+        "title": "New-look Liverpool humbled by Crystal Palace in Community Shield",
+        "summary": "Crystal Palace beat Liverpool 2-2 (3-2 pens) in the Community Shield. New signings scored for Liverpool, but Palace rallied for the win. The match included a tribute to late Diogo Jota.",
+        "url": "https://e.vnexpress.net/news/sports/football/new-look-liverpool-humbled-by-crystal-palace-in-community-shield-4925190.html",
+        "topic": "Sports",
+        "location": "Wembley Stadium, London, England",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 11 Aug 2025 09:24:01 +0700"
+    },
+    {
+        "title": "Phasing out aging gasoline vehicles could ease shift to electric",
+        "summary": "Vietnam plans to gradually phase out old gasoline vehicles with support. This aids emission reduction and allows electric vehicle technology and infrastructure to mature.",
+        "url": "https://e.vnexpress.net/news/tech/phasing-out-aging-gasoline-vehicles-could-ease-shift-to-electric-4925856.html",
+        "topic": "Science and Technology",
+        "location": "Hanoi and major cities in Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 14:58:23 +0700"
+    },
+    {
+        "title": "Vietnamese, Korean leaders witness exchange of major cooperation documents on energy, digital sectors",
+        "summary": "Vietnam and South Korea signed broad cooperation deals in Seoul. Agreements span energy, digital tech, manufacturing, and personnel training.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/vietnamese-korean-leaders-witness-exchange-of-major-cooperation-documents-on-energy-digital-sectors-4926061.html",
+        "topic": "Business",
+        "location": "Vietnam and South Korea",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 20:01:19 +0700"
+    },
+    {
+        "title": "iPhone 17 could debut in Vietnam on Sept. 19",
+        "summary": "Vietnam may get iPhone 17 by Sept 19, indicating its growing market importance. Features and future launch strategies for Apple's iPhones are also discussed.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/iphone-17-could-debut-in-vietnam-on-sept-19-4925887.html",
+        "topic": "Technology",
+        "location": "Vietnam, U.S., Singapore",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 06:41:54 +0700"
+    },
+    {
+        "title": "Hanoi café wrapped in greenery",
+        "summary": "X98, a reborn Hanoi café, blends greenery, art, & community. Popular, it offers diverse facilities; food quality is average.",
+        "url": "https://e.vnexpress.net/photo/places/hanoi-cafe-wrapped-in-greenery-4908907.html",
+        "topic": "Life Style",
+        "location": "Hanoi",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 15 Aug 2025 10:14:47 +0700"
+    },
+    {
+        "title": "IHG to open luxury hotel near Ho Chi Minh City's Ben Thanh Market",
+        "summary": "IHG opens a luxury hotel in Ho Chi Minh City, driven by Vietnam's booming tourism and the city's growing appeal to foreign visitors.",
+        "url": "https://e.vnexpress.net/news/travel/places/ihg-to-open-luxury-hotel-near-ho-chi-minh-city-s-ben-thanh-market-4922504.html",
+        "topic": "Business",
+        "location": "Ho Chi Minh City, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 07:00:00 +0700"
+    },
+    {
+        "title": "First KOL summit signals Vietnam's push for responsible digital influence",
+        "summary": "Vietnam held its first KOL summit. Launched digital trust initiatives. Promoting online responsibility.",
+        "url": "https://e.vnexpress.net/news/news/first-kol-summit-signals-vietnam-s-push-for-responsible-digital-influence-4928644.html",
+        "topic": "Technology",
+        "location": "Hanoi, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 10:26:24 +0700"
+    },
+    {
+        "title": "Passengers' transportation, transfers a concern in relocating international flights to Long Thanh",
+        "summary": "Debate surrounds moving all international flights from HCMC's Tan Son Nhat to Long Thanh airport. ACV supports full relocation for a regional hub, but experts raise connectivity and inconvenience concerns. A comprehensive roadmap is needed.",
+        "url": "https://e.vnexpress.net/news/news/traffic/passengers-transportation-transfers-a-concern-in-relocating-international-flights-to-long-thanh-4927262.html",
+        "topic": "Business",
+        "location": "Ho Chi Minh City, Long Thanh, Dong Nai, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 10:56:57 +0700"
+    },
+    {
+        "title": "Thai volleyball fans frustrated after Vietnam's stunning comeback victory",
+        "summary": "Thai volleyball fans are frustrated after their dominant team surprisingly lost 2-3 to host Vietnam in the SEA V-League, sparking criticism.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/thai-volleyball-fans-frustrated-after-vietnam-s-stunning-comeback-victory-4925644.html",
+        "topic": "Sports",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 05:52:58 +0700"
+    },
+    {
+        "title": "Plane carrying 49 crashes in Russia's far east, no signs of survivors",
+        "summary": "A plane with 49 onboard crashed into a remote mountainside in Russia's far east. No survivors were found after the Angara Airlines Antonov-24 disappeared from radar.",
+        "url": "https://e.vnexpress.net/news/world/plane-carrying-49-crashes-in-russia-s-far-east-no-signs-of-survivors-4918460.html",
+        "topic": "News",
+        "location": "Russia's far east",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Thu, 24 Jul 2025 15:19:58 +0700"
+    },
+    {
+        "title": "Video showing migrant worker moved by forklift prompts action from South Korea's president",
+        "summary": "South Korean President ordered a probe into migrant worker mistreatment after a video of a Sri Lankan worker abused by a forklift sparked outrage and an investigation.",
+        "url": "https://e.vnexpress.net/news/world/video-showing-migrant-worker-moved-by-forklift-prompts-action-from-south-korea-s-president-4918730.html",
+        "topic": "News",
+        "location": "South Korea",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 25 Jul 2025 10:17:01 +0700"
+    },
+    {
+        "title": "Apple reportedly preparing to launch $600 MacBook",
+        "summary": "Apple plans a new $600 MacBook with an A18 Pro chip and 12.9-inch display. It targets Chromebooks, boosting sales, launching late 2025/early 2026.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/apple-reportedly-preparing-to-launch-600-macbook-4926265.html",
+        "topic": "Technology",
+        "location": "United States and Taiwan",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 10:39:06 +0700"
+    },
+    {
+        "title": "Gold prices end week 1.8% lower on global markets",
+        "summary": "Global gold prices fell 1.8% due to inflation and reduced rate-cut bets. US-Russia summit also influenced markets. Vietnam's gold market noted.",
+        "url": "https://e.vnexpress.net/news/business/markets/gold-prices-end-week-1-8-lower-on-global-markets-4927621.html",
+        "topic": "Stock and Investment",
+        "location": "Vietnam, Global Markets, US, Russia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 12:39:23 +0700"
+    },
+    {
+        "title": "World's 'most favorite destination' eyes 60 million foreign visitors in 2030",
+        "summary": "Japan targets 60M visitors by 2030, diversifying destinations and attracting high-spending travelers. Named world's favorite.",
+        "url": "https://e.vnexpress.net/news/travel/places/world-s-most-favorite-destination-eyes-60-million-foreign-visitors-in-2030-4926405.html",
+        "topic": "Life Style",
+        "location": "Japan",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 08:00:00 +0700"
+    },
+    {
+        "title": "Electric sightseeing bus route launched in downtown Hanoi",
+        "summary": "Hanoi launched a new E11 electric sightseeing bus route, offering free rides initially to top attractions. This expands the city's green public transport network, aiming for full conversion by 2030.",
+        "url": "https://e.vnexpress.net/news/news/traffic/electric-sightseeing-bus-route-launched-in-downtown-hanoi-4928707.html",
+        "topic": "News",
+        "location": "Hanoi, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 11:38:27 +0700"
+    },
+    {
+        "title": "Cristiano Ronaldo finally proposes to long-time girlfriend Georgina Rodriguez",
+        "summary": "Cristiano Ronaldo and Georgina Rodriguez are engaged after nine years. Georgina revealed a huge diamond ring, sparking viral attention. Experts estimate the ring is worth over a million dollars.",
+        "url": "https://e.vnexpress.net/news/sports/football/cristiano-ronaldo-finally-proposes-to-long-time-girlfriend-georgina-rodriguez-4925646.html",
+        "topic": "Entertainment",
+        "location": "International",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 05:54:56 +0700"
+    },
+    {
+        "title": "US fertility rate reached new low in 2024, CDC data shows",
+        "summary": "US fertility hit a 2024 low. A 20-year decline due to delayed parenting and resource worries. Govt efforts seen as symbolic.",
+        "url": "https://e.vnexpress.net/news/world/us-fertility-rate-reached-new-low-in-2024-cdc-data-shows-4918843.html",
+        "topic": "Health",
+        "location": "United States",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Fri, 25 Jul 2025 13:04:24 +0700"
+    },
+    {
+        "title": "BTS agency HYBE raided over alleged fraud trading",
+        "summary": "HYBE, BTS's agency, was raided over alleged founder fraud in its 2020 IPO, involving misleading investors for illicit profits. HYBE denies the claims and pledges cooperation.",
+        "url": "https://e.vnexpress.net/news/world/bts-agency-hybe-raided-over-alleged-fraud-trading-4919106.html",
+        "topic": "Business",
+        "location": "Yongsan District, Seoul, South Korea",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 26 Jul 2025 08:32:38 +0700"
+    },
+    {
+        "title": "How motorbike companies are approaching the imminent shift to electric vehicles",
+        "summary": "Vietnam's motorbike market shifts to EVs due to urban bans. Local firms are proactive, foreign brands slower. This signals market competition.",
+        "url": "https://e.vnexpress.net/news/tech/enterprises/how-motorbike-companies-are-approaching-the-imminent-shift-to-electric-vehicles-4924390.html",
+        "topic": "Technology",
+        "location": "Hanoi and Ho Chi Minh City, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 11:35:24 +0700"
+    },
+    {
+        "title": "China to debut world’s first pregnancy humanoid robot in 2026",
+        "summary": "Kaiwa Technology plans a pregnancy robot by 2026 to address infertility, creating ethical debate.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/china-to-debut-world-s-first-pregnancy-humanoid-robot-in-2026-4926202.html",
+        "topic": "Science and Technology",
+        "location": "China",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 11:45:33 +0700"
+    },
+    {
+        "title": "Singapore to review Malaysian tycoon Ong Beng Seng’s permanent resident status after sentencing",
+        "summary": "Malaysian tycoon Ong Beng Seng's Singapore PR is reviewed post-conviction for abetting obstruction of justice. Fined S$30,000, he avoided jail due to severe illness. He's key in Singapore's business and F1.",
+        "url": "https://e.vnexpress.net/news/business/billionaires/singapore-to-review-malaysian-tycoon-ong-beng-seng-s-permanent-resident-status-after-sentencing-4927632.html",
+        "topic": "Business",
+        "location": "Singapore",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 12:39:39 +0700"
+    },
+    {
+        "title": "Southeast Asia's second largest economy receives over 20 million tourists",
+        "summary": "Thailand recorded 20.1M foreign arrivals, generating $28.8B. Arrivals expected to rise, despite safety concerns and a lowered annual forecast.",
+        "url": "https://e.vnexpress.net/news/travel/southeast-asia-s-second-largest-economy-receives-over-20-million-tourists-4927526.html",
+        "topic": "Business",
+        "location": "Thailand",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 08:57:02 +0700"
+    },
+    {
+        "title": "Malaysia's AirAsia flight criticized for landing at wrong airport in South Korea",
+        "summary": "An AirAsia flight from Kuala Lumpur landed at the wrong airport in South Korea, causing confusion. Weather diversion cited; airline apologized.",
+        "url": "https://e.vnexpress.net/news/travel/malaysia-s-airasia-flight-criticized-for-landing-at-wrong-airport-in-south-korea-4927565.html",
+        "topic": "News",
+        "location": "South Korea and Malaysia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 09:24:09 +0700"
+    },
+    {
+        "title": "Child obesity in Vietnam balloons to rich nations' rates",
+        "summary": "Child obesity in Vietnam has surged, driven by poor diets and sedentary habits. New laws will tackle school nutrition.",
+        "url": "https://e.vnexpress.net/news/news/child-obesity-in-vietnam-balloons-to-rich-nations-rates-4927536.html",
+        "topic": "Health",
+        "location": "Vietnam, Hanoi",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 14:00:00 +0700"
+    },
+    {
+        "title": "Indonesian captain Jay Idzes breaks Southeast Asian record with $9.3M transfer to Serie A club",
+        "summary": "Indonesian captain Jay Idzes made a record $9.3M transfer to Sassuolo, becoming the highest-paid Southeast Asian player in Serie A. He previously played for Venezia. This marks a significant milestone for Southeast Asian football.",
+        "url": "https://e.vnexpress.net/news/sports/football/indonesian-captain-jay-idzes-breaks-southeast-asian-record-with-9-3m-transfer-to-serie-a-club-4925498.html",
+        "topic": "Sports",
+        "location": "Indonesia, Italy, Southeast Asia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 13:34:55 +0700"
+    },
+    {
+        "title": "Magnus Carlsen beats ChatGPT in chess game without looking",
+        "summary": "Magnus Carlsen defeated ChatGPT in a chaotic, blindfolded chess exhibition in Las Vegas, allowing AI's illegal, illogical moves.",
+        "url": "https://e.vnexpress.net/news/sports/other-sports/magnus-carlsen-beats-chatgpt-in-chess-game-without-looking-4925906.html",
+        "topic": "Science and Technology",
+        "location": "Las Vegas",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 15:10:18 +0700"
+    },
+    {
+        "title": "Greek heatwave drags out as temperatures near 46C",
+        "summary": "Greece endures a severe heatwave nearing 46C, causing Acropolis closures and wildfires. Temperatures are expected to remain high beyond July 28.",
+        "url": "https://e.vnexpress.net/news/world/greek-heatwave-drags-out-as-temperatures-near-46c-4919113.html",
+        "topic": "News",
+        "location": "Greece",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 26 Jul 2025 08:32:57 +0700"
+    },
+    {
+        "title": "11 injured at Walmart store stabbing in US state of Michigan",
+        "summary": "An attack at a Walmart in Michigan injured 11 people, with police reporting it as a random stabbing. A 42-year-old suspect is in custody, and several victims are in critical condition. Authorities are investigating this uncommon act of violence.",
+        "url": "https://e.vnexpress.net/news/world/11-injured-at-walmart-store-stabbing-in-us-state-of-michigan-4919475.html",
+        "topic": "News",
+        "location": "Traverse City, Michigan, United States",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sun, 27 Jul 2025 15:03:01 +0700"
+    },
+    {
+        "title": "Vietnam police bust billion-dollar Paynet Coin crypto scam",
+        "summary": "Vietnam police busted a multi-billion dollar Paynet Coin crypto scam. A transnational gang defrauded thousands with a Ponzi scheme; assets seized.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/vietnam-police-bust-billion-dollar-paynet-coin-crypto-scam-4925891.html",
+        "topic": "Finance",
+        "location": "Phu Tho Province, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 11:45:47 +0700"
+    },
+    {
+        "title": "Battle for Vietnam’s skies intensifies with new airline",
+        "summary": "New airlines intensify competition in Vietnam's aviation sector. Sun PhuQuoc Airways and Vietravel Airlines expand, driving post-Covid recovery.",
+        "url": "https://e.vnexpress.net/news/business/companies/battle-for-vietnam-s-skies-intensifies-with-new-airline-4926857.html",
+        "topic": "Business",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 12:48:18 +0700"
+    },
+    {
+        "title": "Dollar edges up against dong on black market",
+        "summary": "The US dollar gained on Vietnam's black market but slipped globally due to Fed rate cut hopes and Ukraine talks.",
+        "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-4927616.html",
+        "topic": "Finance",
+        "location": "Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sat, 16 Aug 2025 12:58:28 +0700"
+    },
+    {
+        "title": "Southeast Asian city named world's second safest for female digital nomads",
+        "summary": "Chiang Rai, Thailand, ranks as the world's second safest city for female digital nomads, credited to strong safety measures.",
+        "url": "https://e.vnexpress.net/news/travel/places/southeast-asian-city-named-world-s-second-safest-for-female-digital-nomads-4927541.html",
+        "topic": "Life Style",
+        "location": "Chiang Rai, Thailand",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 18 Aug 2025 07:41:32 +0700"
+    },
+    {
+        "title": "Dubai police retrieve diamond worth $25M hours after it was stolen",
+        "summary": "Dubai police recovered a $25M pink diamond, catching three thieves within hours using AI after a dealer was lured. Dubai is a major diamond trading hub.",
+        "url": "https://e.vnexpress.net/news/news/crime/dubai-police-retrieve-diamond-worth-25m-hours-after-it-was-stolen-4928849.html",
+        "topic": "News",
+        "location": "Dubai, United Arab Emirates",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 15:58:26 +0700"
+    },
+    {
+        "title": "Japan boxing to adopt stricter rules on weight loss after deaths of 2 fighters",
+        "summary": "• Japan boxing enacts new safety rules.\n• This follows two fighter deaths.\n• Measures target weight loss and medical care.",
+        "url": "https://e.vnexpress.net/news/sports/boxing/japan-boxing-to-adopt-stricter-rules-on-weight-loss-after-deaths-of-2-fighters-4925479.html",
+        "topic": "Sports",
+        "location": "Tokyo, Japan",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 16:28:21 +0700"
+    },
+    {
+        "title": "How much is Cristiano Ronaldo's engagement ring?",
+        "summary": "Cristiano Ronaldo gave Georgina Rodriguez a 25-30 carat diamond engagement ring, valued $2-5M. It marks a new chapter in their 9-year relationship.",
+        "url": "https://e.vnexpress.net/news/sports/football/how-much-is-cristiano-ronaldo-s-engagement-ring-4926088.html",
+        "topic": "Life Style",
+        "location": null,
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 21:26:07 +0700"
+    },
+    {
+        "title": "Thailand and Cambodia to hold talks on deadly border conflict in Malaysia",
+        "summary": "Thailand & Cambodia meet in Malaysia for talks. Border conflict caused casualties & evacuations. US urges ceasefire.",
+        "url": "https://e.vnexpress.net/news/world/thailand-and-cambodia-to-hold-talks-on-deadly-border-conflict-in-malaysia-4919605.html",
+        "topic": "News",
+        "location": "Thailand, Cambodia, Malaysia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 28 Jul 2025 09:02:18 +0700"
+    },
+    {
+        "title": "US and EU avert trade war with 15% tariff deal",
+        "summary": "US & EU reached a trade deal with a 15% import tariff, averting a larger trade war after months of talks.",
+        "url": "https://e.vnexpress.net/news/world/us-and-eu-avert-trade-war-with-15-tariff-deal-4919606.html",
+        "topic": "Business",
+        "location": "Turnberry, Scotland",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 28 Jul 2025 09:02:37 +0700"
+    },
+    {
+        "title": "Hanoi Metro urges limiting foldable bicycles with lithium batteries on trains",
+        "summary": "Hanoi Metro asks passengers to limit lithium battery bikes on trains due to fire risks. They clarified it's not a ban, correcting staff.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/hanoi-metro-urges-limiting-foldable-bicycles-with-lithium-batteries-on-trains-4926167.html",
+        "topic": "Technology",
+        "location": "Hanoi, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 14:38:18 +0700"
+    },
+    {
+        "title": "Lucy Guo, world’s youngest self-made female billionaire, says AI will be ‘our best business partner’",
+        "summary": "Lucy Guo views AI as a creator's co-pilot, not a replacement. It boosts content and monetization, aiding women creators.",
+        "url": "https://e.vnexpress.net/news/tech/personalities/lucy-guo-world-s-youngest-self-made-female-billionaire-says-ai-will-be-our-best-business-partner-4925762.html",
+        "topic": "Science and Technology",
+        "location": "Hanoi, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 16:39:35 +0700"
+    },
+    {
+        "title": "Vietnam rice prices face steeper drop as Philippines halts imports",
+        "summary": "Philippines' import halt strains Vietnam's rice exports, causing price drops and financial issues. Vietnam seeks market diversification.",
+        "url": "https://e.vnexpress.net/news/business/economy/vietnam-rice-prices-face-steeper-drop-as-philippines-halts-imports-4927595.html",
+        "topic": "Business",
+        "location": "Vietnam's rice industry and the Philippines",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sun, 17 Aug 2025 06:10:30 +0700"
+    },
+    {
+        "title": "Tenants struggle as Hanoi apartment rents skyrocket",
+        "summary": "Hanoi apartment rents are surging, forcing tenants to move or downsize due to high purchase prices and demand. Experts suggest developing low-cost and social housing, including Singapore-like dormitory models.",
+        "url": "https://e.vnexpress.net/news/business/property/tenants-struggle-as-hanoi-apartment-rents-skyrocket-4927428.html",
+        "topic": "Business",
+        "location": "Hanoi, Vietnam",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sun, 17 Aug 2025 08:31:49 +0700"
+    },
+    {
+        "title": "Singapore airline Scoot to boost flights to Asian destinations",
+        "summary": "Scoot will launch new routes to Thailand (Chiang Rai) and Japan (Okinawa, Haneda), and increase flights to Southeast Asian cities like Ipoh, Chiang Mai, and Bangkok. This expansion, starting late 2025, aims to meet expected holiday travel demand.",
+        "url": "https://e.vnexpress.net/news/travel/singapore-airline-scoot-to-boost-flights-to-asian-destinations-4926676.html",
+        "topic": "Business",
+        "location": "Singapore, Thailand, Japan, Malaysia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 18 Aug 2025 07:45:04 +0700"
+    },
+    {
+        "title": "250 projects worth $48B launched to drive Vietnam's new development phase",
+        "summary": "Vietnam launched 250 projects ($48B) for growth, boosting infrastructure and healthcare to increase GDP and public welfare.",
+        "url": "https://e.vnexpress.net/news/news/250-projects-worth-48b-launched-to-drive-vietnam-s-new-development-phase-4928789.html",
+        "topic": "Business",
+        "location": "Vietnam, Ho Chi Minh City, Nghe An, Hanoi",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 19 Aug 2025 16:00:07 +0700"
+    },
+    {
+        "title": "The fairytale love story of Cristiano Ronaldo and Georgina Rodriguez",
+        "summary": "Ronaldo and Georgina Rodriguez are engaged after nine years. Their love story includes five children and overcoming tragedies.",
+        "url": "https://e.vnexpress.net/photo/football/the-fairytale-love-story-of-cristiano-ronaldo-and-georgina-rodriguez-4926078.html",
+        "topic": "Life Style",
+        "location": "Madrid, Zurich, Italy, Saudi Arabia",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 12 Aug 2025 21:25:27 +0700"
+    },
+    {
+        "title": "Da Nang to host first-ever international League of Legends championship",
+        "summary": "Da Nang hosts the LCP 2025 finals on Sept 20-21, a major eSports event boosting Vietnam's profile and tourism.",
+        "url": "https://e.vnexpress.net/news/sports/da-nang-to-host-first-ever-international-league-of-legends-championship-4926553.html",
+        "topic": "Sports",
+        "location": "Tien Son Sports Center, Da Nang",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 18:37:57 +0700"
+    },
+    {
+        "title": "30 dead, over 80,000 evacuated, following heavy rain in Beijing",
+        "summary": "Heavy rains in Beijing killed 30 people and evacuated 80,000. Intense storms hit northern China, prompting action amid climate change warnings.",
+        "url": "https://e.vnexpress.net/news/world/30-dead-over-80-000-evacuated-following-heavy-rain-in-beijing-4920041.html",
+        "topic": "News",
+        "location": "Beijing and Northern China",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Tue, 29 Jul 2025 09:06:55 +0700"
+    },
+    {
+        "title": "AI startup Perplexity makes bold $34.5B bid for Google's Chrome browser",
+        "summary": "Perplexity AI bid $34.5B for Google's Chrome to gain users for its AI search. Google will likely reject due to its antitrust case, highlighting Chrome's value.",
+        "url": "https://e.vnexpress.net/news/tech/enterprises/ai-startup-perplexity-makes-bold-34-5b-bid-for-google-s-chrome-browser-4926466.html",
+        "topic": "Technology",
+        "location": "United States",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Wed, 13 Aug 2025 16:44:44 +0700"
+    },
+    {
+        "title": "Cambodian durians make first direct flight to China",
+        "summary": "Cambodian durians are now directly exported to China via an air corridor. China employs \"durian diplomacy\" but has seen a decline in overall imports due to stricter inspections. Thailand and Vietnam currently dominate China's durian market.",
+        "url": "https://e.vnexpress.net/news/business/economy/cambodian-durians-make-first-direct-flight-to-china-4927388.html",
+        "topic": "Business",
+        "location": "Cambodia and China",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Sun, 17 Aug 2025 08:35:50 +0700"
+    },
+    {
+        "title": "2 Michelin-starred restaurants shut down in Singapore",
+        "summary": "Two Michelin restaurants, Euphoria and Alma, closed in Singapore. High costs and low consumer spending drive a trend of high-end closures.",
+        "url": "https://e.vnexpress.net/news/travel/food-recipes/2-michelin-starred-restaurants-shut-down-in-singapore-4928137.html",
+        "topic": "Business",
+        "location": "Singapore",
+        "image": null,
+        "hashtags": [],
+        "source": "e.vnexpress.net",
+        "publishedDate": "Mon, 18 Aug 2025 10:11:12 +0700"
+    }
 ]
-
