@@ -68,10 +68,19 @@
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       cursor: pointer;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
+      display: flex;
+      gap: 15px;
     }
     .news-article:hover {
       transform: translateY(-3px);
       box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    .news-image {
+      flex-shrink: 0;
+      width: 120px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 8px;
     }
     .news-content h3 {
       margin: 0 0 10px;
@@ -136,7 +145,6 @@
       <option value="ja">日本語</option>
     </select>
   </header>
-
   <div class="container" id="news-container"></div>
   <button id="reset-button" onclick="resetFilter()">Reset</button>
   <button id="load-more" onclick="loadMore()">Load More</button>
@@ -180,7 +188,6 @@
     function renderNews(items, append = false) {
       const container = document.getElementById("news-container");
       if (!append) container.innerHTML = "";
-
       const end = Math.min(currentIndex + itemsPerLoad, items.length);
       for (let i = currentIndex; i < end; i++) {
         const news = items[i];
@@ -190,7 +197,17 @@
 
         const article = document.createElement("div");
         article.className = "news-article";
+
+        let imageHtml = "";
+        if (news.image) {
+          imageHtml = `<a href="${news.url}" target="_blank">
+                         <img src="${news.image}" alt="news image" class="news-image" 
+                              loading="eager" fetchpriority="high">
+                       </a>`;
+        }
+
         article.innerHTML = `
+          ${imageHtml}
           <div class="news-content">
             <h3>${news.title}</h3>
             <p>${news.summary}</p>
@@ -201,8 +218,10 @@
         `;
 
         // Make the whole card clickable
-        article.onclick = () => {
-          window.open(news.url, "_blank");
+        article.onclick = (e) => {
+          if (!e.target.closest("a")) {  // prevent double open if clicking on image link
+            window.open(news.url, "_blank");
+          }
         };
 
         container.appendChild(article);
@@ -214,14 +233,14 @@
       filteredNews = topic === "All" ? allNews : allNews.filter(n => n.topic === topic);
       currentIndex = 0;
       renderNews(filteredNews);
-      document.getElementById("reset-button").style.display = "none"; // Hide reset on topic filter
+      document.getElementById("reset-button").style.display = "none";
     }
 
     function filterByHashtag(tag) {
       filteredNews = allNews.filter(n => n.hashtags && n.hashtags.includes(tag));
       currentIndex = 0;
       renderNews(filteredNews);
-      document.getElementById("reset-button").style.display = "block"; // Show reset button
+      document.getElementById("reset-button").style.display = "block";
     }
 
     function resetFilter() {
